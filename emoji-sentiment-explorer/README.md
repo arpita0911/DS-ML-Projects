@@ -29,19 +29,20 @@ This mapping allowed analysis of which emojis are most commonly associated with 
 
 ## Visualizations (Plotly)
 
-Five interactive visualizations were created:
+Five interactive visualizations are available in the **`charts/` folder**. Click the links to view each chart in your browser:
 
-1. **Top 20 Emojis by Frequency (Bar Chart)**
-2. **Bubble Chart (Emoji vs Count vs Sentiment)**
-3. **Donut Chart for Overall Sentiment Distribution**
-4. **Word Cloud Approximation**
-5. **Top Positive / Negative / Neutral Emojis**
+1. **[Top 20 Emojis by Frequency (Bar Chart)](charts/top_20_emojis.html)**
+2. **[Bubble Chart (Emoji vs Count vs Sentiment)](charts/emoji_bubble_chart.html)**
+3. **[Donut Chart for Overall Sentiment Distribution](charts/sentiment_distribution.html)**
+4. **[Word Cloud Approximation](charts/emoji_wordcloud.html)**
+5. **[Top Positive / Negative / Neutral Emojis](charts/top_sentiment_emojis.html)**
 
 ## Files in Repo
 
 * `data/emojitweets.csv` – Preprocessed dataset (sampled)
 * `results/emoji_sentiment_stats.csv` – Emoji-level sentiment statistics
 * `notebooks/main.ipynb` – Code for preprocessing, analysis, and visualization
+* `charts/` – Folder containing interactive Plotly visualizations
 * `README.md` – Project documentation
 
 ## Tools & Libraries Used
@@ -50,3 +51,4 @@ Five interactive visualizations were created:
 * NLTK (VADER Sentiment)
 * Pandas, NumPy
 * Plotly (Visualizations)
+
