@@ -1,0 +1,6 @@
+pandas
+emoji
+nltk
+matplotlib
+plotly
+numpy
