@@ -23,12 +23,6 @@ venv/
 *.log
 *.tmp
 
-# Datasets (optional, if large)
-data/
-*.csv
-*.tsv
-*.json
-*.xlsx
 
 # Model files (optional, if large)
 *.h5
