@@ -27,8 +27,9 @@ Steps:
 
 1. Feature Engineering:
 
-   * Stat differences (Attack vs Defense, Speed difference)
+   * Stat differences (Attack vs Defense)
    * Type effectiveness scores
+   * Speed Bonus
    * Total stats
 
 2. Model Training:
