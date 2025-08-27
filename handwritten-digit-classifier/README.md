@@ -8,7 +8,7 @@ It demonstrates supervised learning, model evaluation, and visualization of resu
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 * Dataset: **MNIST** (60,000 training + 10,000 test grayscale digit images).
 * Model: CNN with convolution, pooling, dropout, and dense layers.
@@ -18,7 +18,7 @@ It demonstrates supervised learning, model evaluation, and visualization of resu
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * **Python 3.x**
 * **TensorFlow / Keras**
@@ -30,7 +30,7 @@ It demonstrates supervised learning, model evaluation, and visualization of resu
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── main.py              # Main training and evaluation script
@@ -40,7 +40,7 @@ It demonstrates supervised learning, model evaluation, and visualization of resu
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### 1. Clone Repository
 
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 Run the training and testing script:
 
@@ -67,31 +67,24 @@ python main.py
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 * Prints **training/validation accuracy & loss**.
 * Displays **confusion matrix**.
 * Shows **classification report** with precision, recall, F1-score.
 * Visualizes **predicted vs actual digits**.
 
-Example visualization:
-
-```
-Predicted: 7, Actual: 7
-Predicted: 2, Actual: 2
-Predicted: 1, Actual: 1
-```
 
 ---
 
-## ✅ Results
+## Results
 
 * Achieved **\~98% test accuracy** on MNIST dataset.
 * Model correctly classifies most handwritten digits with minimal errors.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Experiment with **deeper CNN architectures**.
 * Use **data augmentation** to improve robustness.
