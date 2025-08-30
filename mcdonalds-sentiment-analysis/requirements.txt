@@ -1,0 +1,8 @@
+pandas
+numpy
+python-dateutil
+nltk
+scikit-learn
+matplotlib
+seaborn
+folium
