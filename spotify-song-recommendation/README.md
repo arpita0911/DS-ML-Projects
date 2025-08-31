@@ -89,7 +89,7 @@ pip install -r requirements.txt
 Run the main recommendation pipeline:
 
 ```bash
-python main.py
+jupyter notebook
 ```
 
 **Example interaction:**
