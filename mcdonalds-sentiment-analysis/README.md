@@ -83,7 +83,7 @@ pip install -r requirements.txt
 Run the main analysis pipeline:
 
 ```bash
-python main.py
+jupyter notebook
 ```
 
 ---
