@@ -130,12 +130,3 @@ weighted avg       0.81      0.82      0.82      6548
     * Clustered markers for easy navigation.
 
 ---
-
-## Future Improvements
-
-* Experiment with advanced models (**SVM, Random Forest, BERT**).
-* Address class imbalance using techniques like **SMOTE** or weighted loss.
-* Add interactive **dashboard (Streamlit/Power BI)** for business users.
-* Incorporate **topic modeling (LDA)** to extract themes from reviews.
-
----
