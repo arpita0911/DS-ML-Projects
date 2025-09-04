@@ -62,7 +62,7 @@ pip install -r requirements.txt
 Run the training and testing script:
 
 ```bash
-python main.py
+jupyter notebook
 ```
 
 ---
