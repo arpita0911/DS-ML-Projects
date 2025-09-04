@@ -47,10 +47,10 @@ The project also compares the performance of **Linear Regression, Random Forest,
 ## Project Structure
 
 ```
-├── main.py              # Main script: preprocessing, training, evaluation, visualizations
-├── requirements.txt     # Required dependencies
-├── README.md            # Project documentation
-├── data/                # Airbnb Kaggle dataset
+├── notebooks/main.ipynb     # Main script: preprocessing, training, evaluation, visualizations
+├── requirements.txt         # Required dependencies
+├── README.md                # Project documentation
+├── data/                    # Airbnb Kaggle dataset
 ```
 
 ---
@@ -87,8 +87,8 @@ jupyter notebook
 | Model               | RMSE  | MAE   | R²     |
 | ------------------- | ----- | ----- | ------ |
 | Linear Regression   | 0.46  | 0.35  | 0.5834 |
-| Random Forest (log) | 0.414 | 0.301 | 0.6666 |
-| XGBoost (log)       | 0.386 | 0.279 | 0.7098 |
+| Random Forest (log) | 0.41  | 0.30  | 0.6666 |
+| XGBoost (log)       | 0.39  | 0.28  | 0.7098 |
 
 * **Note:** Target variable is log-transformed `log_price`. RMSE and MAE are on log scale. Actual price error roughly translates to `exp(RMSE)` multiplicative error.
 
