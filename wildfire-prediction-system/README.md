@@ -89,7 +89,7 @@ project/
 
 Includes two pages:
 
-### ** Page 1 — Wildfire Trends & Insights **
+### **Page 1 — Wildfire Trends & Insights**
 
 * KPIs: Total fires, large fires, % large fires, avg fire weather index
 * Donut chart: Fire causes
@@ -97,7 +97,7 @@ Includes two pages:
 * Trend charts: Fires by year, month, state, county
 * Scatter plot: Temperature vs precipitation for large fires
 
-### ** Page 2 — Model Predictions & Performance **
+### **Page 2 — Model Predictions & Performance**
 
 * KPIs: Recall, accuracy, error rate, avg predicted probability
 * Distribution of predicted fire risk
