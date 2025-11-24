@@ -9,12 +9,24 @@ This project performs end-to-end wildfire analysis and large-fire risk predictio
 
 ---
 
+---
+
 ## **Dataset Sources**
 
 * **Wildfire Dataset:** `https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires`
 * **Weather / Environmental Dataset:** `https://www.kaggle.com/datasets/leternnoz/188-million-us-wildfires-weather-data`
 
-Both datasets were merged using OBJECTID to create a unified modeling dataset.
+### **🔽 Download Instructions**
+
+Download the datasets directly from the Kaggle links above and **place all files inside the `project/data/` folder**:
+
+```
+project/
+│── data/
+│     ├── wildfire_dataset.csv
+│     ├── weather_dataset.csv
+│     └── (any other CSV files you downloaded)
+```
 
 ---
 
@@ -33,7 +45,7 @@ Both datasets were merged using OBJECTID to create a unified modeling dataset.
 
 ```
 project/
-│── data/                # Raw & processed datasets
+│── data/                # Place all downloaded Kaggle datasets here
 │── notebooks/           # EDA,preprocessing, training, evaluation notebook
 │── powerbi/             # Power BI dashboard (.pbix)
 │── output/              # results and exports for powerbi
@@ -77,7 +89,7 @@ project/
 
 Includes two pages:
 
-### ** Page 1 — Wildfire Trends & Insights**
+### ** Page 1 — Wildfire Trends & Insights **
 
 * KPIs: Total fires, large fires, % large fires, avg fire weather index
 * Donut chart: Fire causes
@@ -85,7 +97,7 @@ Includes two pages:
 * Trend charts: Fires by year, month, state, county
 * Scatter plot: Temperature vs precipitation for large fires
 
-### ** Page 2 — Model Predictions & Performance**
+### ** Page 2 — Model Predictions & Performance **
 
 * KPIs: Recall, accuracy, error rate, avg predicted probability
 * Distribution of predicted fire risk
