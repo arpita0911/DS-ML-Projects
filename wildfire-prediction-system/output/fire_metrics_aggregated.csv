@@ -1,0 +1,4911 @@
+STATE,COUNTY,total_fires,large_fires_actual,large_fires_pred
+AK,110.0,5,0,0
+AK,122.0,5,0,0
+AK,130.0,2,0,0
+AK,201.0,1,0,0
+AK,220.0,2,0,0
+AK,280.0,5,0,1
+AK,110,10,0,0
+AK,122,4,0,0
+AK,130,1,0,0
+AK,201,2,0,0
+AK,220,2,0,0
+AK,280,2,0,0
+AK,Bethel,6,6,6
+AK,Juneau,1,0,0
+AK,Kenai Peninsula,2,1,2
+AK,Northwest Arctic,1,1,1
+AK,Sitka,1,0,0
+AK,Unknown,1053,194,559
+AK,Wrangell-Petersburg,1,0,0
+AK,Yukon-Koyukuk,9,9,9
+AL,7.0,3,1,3
+AL,15.0,2,1,1
+AL,21.0,1,0,1
+AL,27.0,2,0,2
+AL,29.0,6,0,5
+AL,39.0,4,1,4
+AL,53.0,1,1,1
+AL,79.0,5,1,3
+AL,87.0,3,0,3
+AL,105.0,1,0,1
+AL,121.0,4,0,4
+AL,133.0,14,0,12
+AL,007,2,0,2
+AL,015,2,2,2
+AL,021,1,1,1
+AL,027,9,0,7
+AL,029,2,0,1
+AL,039,1,0,1
+AL,079,5,0,4
+AL,105,1,0,1
+AL,121,3,1,2
+AL,133,11,0,8
+AL,Autauga,86,0,2
+AL,Baldwin,277,12,56
+AL,Barbour,34,1,2
+AL,Bibb,62,0,6
+AL,Blount,60,1,0
+AL,Bullock,36,0,9
+AL,Butler,105,1,7
+AL,Calhoun,67,3,10
+AL,Chambers,58,1,6
+AL,Cherokee,120,12,44
+AL,Chilton,111,0,3
+AL,Choctaw,95,2,6
+AL,Clarke,67,0,8
+AL,Clay,62,2,11
+AL,Cleburne,89,4,27
+AL,Coffee,33,0,4
+AL,Colbert,60,0,4
+AL,Conecuh,108,1,17
+AL,Coosa,59,3,6
+AL,Covington,64,0,11
+AL,Crenshaw,46,1,6
+AL,Cullman,66,1,2
+AL,Dale,22,0,1
+AL,Dallas,67,1,2
+AL,DeKalb,105,1,19
+AL,Elmore,45,1,2
+AL,Escambia,158,7,36
+AL,Etowah,65,1,11
+AL,Fayette,37,2,2
+AL,Franklin,57,3,5
+AL,Geneva,29,0,0
+AL,Greene,49,1,3
+AL,Hale,65,0,4
+AL,Henry,19,0,0
+AL,Houston,21,0,6
+AL,Jackson,55,1,7
+AL,Jefferson,130,1,7
+AL,Lamar,40,0,3
+AL,Lauderdale,78,0,0
+AL,Lawrence,51,1,6
+AL,Lee,32,3,4
+AL,Limestone,26,0,1
+AL,Lowndes,70,1,2
+AL,Macon,121,7,18
+AL,Madison,20,0,1
+AL,Marengo,53,1,1
+AL,Marion,92,0,6
+AL,Marshall,36,0,2
+AL,Mobile,316,11,94
+AL,Monroe,78,2,7
+AL,Montgomery,37,0,4
+AL,Morgan,36,0,2
+AL,Perry,104,1,5
+AL,Pickens,37,1,1
+AL,Pike,41,2,5
+AL,Randolph,51,0,7
+AL,Russell,77,2,15
+AL,Saint Clair,38,2,3
+AL,Shelby,84,2,4
+AL,St. Clair,21,1,2
+AL,Sumter,30,0,1
+AL,Talladega,189,4,18
+AL,Tallapoosa,72,1,4
+AL,Tuscaloosa,93,1,3
+AL,Unknown,232,9,57
+AL,Walker,194,5,15
+AL,Washington,170,9,60
+AL,Wilcox,71,0,4
+AL,Winston,50,0,4
+AR,1.0,1,0,0
+AR,5.0,4,0,4
+AR,33.0,3,0,3
+AR,47.0,1,0,1
+AR,51.0,9,0,5
+AR,71.0,3,0,3
+AR,77.0,1,0,1
+AR,83.0,2,0,1
+AR,87.0,1,0,0
+AR,97.0,12,0,9
+AR,101.0,2,0,2
+AR,105.0,2,1,1
+AR,113.0,11,1,9
+AR,115.0,7,0,5
+AR,127.0,7,0,4
+AR,129.0,4,2,3
+AR,131.0,2,0,2
+AR,149.0,6,0,4
+AR,033,2,0,2
+AR,047,4,0,3
+AR,051,4,0,2
+AR,071,9,0,5
+AR,087,1,0,1
+AR,097,9,1,6
+AR,101,4,0,3
+AR,105,3,1,1
+AR,113,7,0,4
+AR,115,3,0,3
+AR,125,5,0,3
+AR,127,2,0,2
+AR,137,3,0,2
+AR,141,1,0,1
+AR,149,7,0,5
+AR,ASHLEY,29,1,2
+AR,Arkansas,1,0,0
+AR,Ashley,28,1,2
+AR,BAXTER,15,0,6
+AR,BENTON,24,0,4
+AR,BOONE,11,0,5
+AR,BRADLEY,30,2,3
+AR,Baxter,12,1,10
+AR,Benton,11,1,5
+AR,Boone,9,0,3
+AR,Bradley,22,0,5
+AR,CALHOUN,46,0,2
+AR,CARROLL,21,1,9
+AR,CHICOT,3,0,0
+AR,CLARK,45,1,6
+AR,CLEBURNE,31,0,6
+AR,CLEVELAND,15,0,4
+AR,COLUMBIA,57,3,5
+AR,CONWAY,31,0,8
+AR,CRAWFORD,34,0,1
+AR,Calhoun,30,0,3
+AR,Carroll,18,0,14
+AR,Chicot,4,2,0
+AR,Clark,27,0,1
+AR,Cleburne,21,2,5
+AR,Cleveland,13,0,0
+AR,Columbia,27,1,0
+AR,Conway,16,0,1
+AR,Craighead,4,0,1
+AR,Crawford,29,1,7
+AR,Cross,2,0,0
+AR,DALLAS,28,1,3
+AR,DESHA,1,1,0
+AR,DREW,37,0,3
+AR,Dallas,22,1,4
+AR,Desha,1,0,0
+AR,Drew,36,0,3
+AR,FAULKNER,39,2,7
+AR,FRANKLIN,20,1,1
+AR,FULTON,43,0,5
+AR,Faulkner,14,0,4
+AR,Franklin,11,0,0
+AR,Fulton,23,0,3
+AR,GARLAND,50,1,6
+AR,GRANT,50,1,4
+AR,GREENE,5,0,0
+AR,Garland,27,0,3
+AR,Grant,52,1,6
+AR,HEMPSTEAD,33,0,8
+AR,HOT SPRING,81,0,7
+AR,HOWARD,22,1,5
+AR,Hempstead,21,1,2
+AR,Hot Spring,43,0,2
+AR,Howard,11,1,1
+AR,INDEPENDENCE,50,1,18
+AR,IZARD,40,0,16
+AR,Independence,29,1,9
+AR,Izard,32,0,9
+AR,JACKSON,5,0,1
+AR,JEFFERSON,21,0,2
+AR,JOHNSON,19,0,2
+AR,Jackson,3,0,2
+AR,Jefferson,23,0,1
+AR,Johnson,15,0,3
+AR,LAFAYETTE,13,0,1
+AR,LAWRENCE,8,1,2
+AR,LINCOLN,11,0,1
+AR,LITTLE RIVER,21,1,4
+AR,LOGAN,20,0,2
+AR,LONOKE,9,0,0
+AR,Lafayette,23,1,1
+AR,Lawrence,8,0,1
+AR,Lee,1,0,0
+AR,Lincoln,7,1,0
+AR,Little River,12,1,1
+AR,Logan,18,1,1
+AR,MADISON,6,0,4
+AR,MARION,27,0,10
+AR,MILLER,72,1,8
+AR,MONROE,2,1,0
+AR,MONTGOMERY,9,0,2
+AR,Madison,14,0,10
+AR,Marion,21,0,16
+AR,Miller,44,1,2
+AR,Monroe,3,1,1
+AR,Montgomery,6,0,1
+AR,NEVADA,33,0,5
+AR,NEWTON,8,0,4
+AR,Nevada,32,1,6
+AR,Newton,16,2,5
+AR,OUACHITA,79,0,14
+AR,Ouachita,63,1,12
+AR,PERRY,25,1,7
+AR,PHILLIPS,1,1,0
+AR,PIKE,20,0,6
+AR,POLK,11,0,1
+AR,POPE,26,0,4
+AR,PRAIRIE,4,0,0
+AR,PULASKI,26,0,4
+AR,Perry,18,0,3
+AR,Pike,11,1,0
+AR,Poinsett,2,0,1
+AR,Polk,7,0,0
+AR,Pope,15,0,0
+AR,Prairie,2,0,0
+AR,Pulaski,17,0,1
+AR,RANDOLPH,23,0,1
+AR,Randolph,19,0,3
+AR,SALINE,67,2,10
+AR,SCOTT,19,0,4
+AR,SEARCY,30,1,15
+AR,SEBASTIAN,30,0,5
+AR,SEVIER,29,0,2
+AR,SHARP,44,1,7
+AR,ST FRANCIS,3,0,0
+AR,STONE,19,0,4
+AR,Saline,50,0,4
+AR,Scott,8,0,1
+AR,Searcy,30,5,21
+AR,Sebastian,12,0,1
+AR,Sevier,17,0,4
+AR,Sharp,21,0,3
+AR,St. Francis,8,1,2
+AR,Stone,13,0,3
+AR,UNION,65,0,3
+AR,Union,48,1,1
+AR,Unknown,353,16,83
+AR,VAN BUREN,24,0,11
+AR,Van Buren,17,0,4
+AR,WASHINGTON,25,0,3
+AR,WHITE,66,0,5
+AR,WOODRUFF,1,0,0
+AR,Washington,14,0,2
+AR,White,29,0,2
+AR,Woodruff,3,1,2
+AR,YELL,17,1,2
+AR,Yell,10,0,0
+AZ,1.0,71,1,33
+AZ,3.0,34,6,32
+AZ,5.0,523,11,197
+AZ,7.0,135,3,101
+AZ,9.0,8,1,7
+AZ,11.0,38,3,34
+AZ,13.0,56,0,27
+AZ,17.0,53,2,31
+AZ,19.0,15,2,12
+AZ,21.0,6,0,5
+AZ,23.0,14,3,14
+AZ,25.0,97,4,56
+AZ,001,21,2,8
+AZ,003,9,1,7
+AZ,005,265,12,67
+AZ,007,84,1,42
+AZ,009,15,0,12
+AZ,011,12,0,5
+AZ,013,51,3,16
+AZ,017,48,0,7
+AZ,019,19,4,18
+AZ,021,7,1,3
+AZ,023,10,0,10
+AZ,025,49,1,23
+AZ,19,1,0,1
+AZ,21,2,0,2
+AZ,23,4,0,3
+AZ,3,1,1,1
+AZ,5,1,0,0
+AZ,7,10,1,8
+AZ,9,2,0,2
+AZ,APACHE,5,0,0
+AZ,APACHE ,1,1,1
+AZ,Apache,17,2,2
+AZ,COCHISE,16,0,1
+AZ,COCONINO,8,0,2
+AZ,Cochise,102,4,57
+AZ,Coconino,72,3,20
+AZ,Gila,23,0,5
+AZ,Graham,25,2,22
+AZ,Greenlee,2,0,1
+AZ,La Paz,19,1,14
+AZ,MARICOPA,2,0,0
+AZ,MOHAVE,11,0,1
+AZ,Maricopa,259,7,23
+AZ,Mohave,288,17,246
+AZ,NAVAJO,1,0,0
+AZ,Navajo,15,0,1
+AZ,PIMA,6,0,0
+AZ,PINAL,9,0,0
+AZ,Pima,32,0,11
+AZ,Pinal,40,1,6
+AZ,SANTA CRUZ,2,0,2
+AZ,Santa Cruz,11,0,9
+AZ,Unknown,2719,69,690
+AZ,YAVAPAI,6,0,0
+AZ,YUMA,1,0,0
+AZ,Yavapai,82,1,41
+AZ,Yavapai County,1,1,1
+AZ,Yuma,47,1,23
+CA,3.0,24,0,1
+CA,5.0,6,0,0
+CA,7.0,7,0,2
+CA,9.0,7,0,0
+CA,11.0,1,0,0
+CA,15.0,12,0,1
+CA,17.0,58,0,2
+CA,19.0,53,1,27
+CA,21.0,9,1,7
+CA,23.0,31,1,6
+CA,27.0,10,2,7
+CA,29.0,34,3,18
+CA,33.0,8,1,1
+CA,35.0,31,1,18
+CA,37.0,153,5,67
+CA,39.0,26,0,5
+CA,43.0,6,0,2
+CA,49.0,65,1,17
+CA,51.0,43,2,19
+CA,53.0,11,1,3
+CA,57.0,33,2,8
+CA,59.0,14,1,3
+CA,61.0,30,1,2
+CA,63.0,94,3,23
+CA,65.0,55,1,14
+CA,71.0,75,0,38
+CA,73.0,33,4,8
+CA,79.0,2,0,0
+CA,83.0,8,0,5
+CA,89.0,38,2,15
+CA,91.0,34,1,7
+CA,93.0,124,8,48
+CA,103.0,11,2,5
+CA,105.0,104,3,54
+CA,107.0,22,5,16
+CA,109.0,38,0,3
+CA,111.0,7,1,5
+CA,115.0,3,0,1
+CA,003,23,0,2
+CA,005,7,0,0
+CA,007,3,1,0
+CA,009,2,0,1
+CA,011,3,1,0
+CA,015,14,2,5
+CA,017,65,1,5
+CA,019,51,0,11
+CA,021,1,0,0
+CA,023,31,2,8
+CA,027,5,0,2
+CA,029,34,2,18
+CA,033,8,0,0
+CA,035,19,0,6
+CA,037,152,3,44
+CA,039,19,0,4
+CA,043,5,1,0
+CA,045,5,1,1
+CA,049,55,1,5
+CA,051,38,0,4
+CA,053,7,1,1
+CA,057,19,0,1
+CA,059,4,0,0
+CA,061,39,0,4
+CA,063,74,1,7
+CA,065,46,3,11
+CA,071,97,4,25
+CA,073,44,2,10
+CA,079,3,0,1
+CA,083,8,1,2
+CA,089,36,0,8
+CA,091,30,0,3
+CA,093,102,1,18
+CA,103,12,1,2
+CA,105,65,4,19
+CA,107,29,1,18
+CA,109,21,1,1
+CA,111,10,1,3
+CA,115,5,1,1
+CA,51,1,1,1
+CA,61,3,0,0
+CA,63,8,0,1
+CA,71,1,0,0
+CA,ALAMEDA,63,3,2
+CA,AMADOR,49,0,0
+CA,Alameda,4,0,1
+CA,Alpine,16,0,5
+CA,Amador,19,1,2
+CA,BUTTE,199,3,0
+CA,Butte,57,2,6
+CA,CALAVERAS,97,1,0
+CA,COLUSA,7,0,0
+CA,CONTRA COSTA,88,1,5
+CA,Calaveras,31,1,6
+CA,Colusa,3,0,0
+CA,Contra Costa,1,0,0
+CA,DEL NORTE,11,0,0
+CA,Del Norte,8,0,1
+CA,EL DORADO,150,2,0
+CA,El Dorado,64,0,1
+CA,FRESNO,293,4,9
+CA,Fresno,27,1,7
+CA,GLENN,9,0,0
+CA,Glenn,2,1,1
+CA,HUMBOLDT,107,3,3
+CA,Humboldt,20,1,6
+CA,Humboldt County,1,1,1
+CA,IMPERIAL,5,0,1
+CA,INYO,10,0,0
+CA,Imperial,21,2,11
+CA,Inyo,38,1,21
+CA,KERN,26,1,7
+CA,KINGS,26,0,0
+CA,Kern,109,6,79
+CA,Kern County,1,1,0
+CA,LAKE,48,0,0
+CA,LASSEN,40,1,4
+CA,LOS ANGELES,188,1,43
+CA,Lake,18,6,3
+CA,Lassen,114,8,75
+CA,Los Angeles,33,3,10
+CA,MADERA,193,3,8
+CA,MARIN,12,0,1
+CA,MARIPOSA,41,0,0
+CA,MENDOCINO,133,3,4
+CA,MERCED,273,2,6
+CA,MODOC,12,1,0
+CA,MONTEREY,100,5,1
+CA,Madera,11,1,3
+CA,Marin,1,1,0
+CA,Mariposa,25,3,7
+CA,Mendocino,31,2,5
+CA,Merced,7,1,5
+CA,Modoc,60,3,38
+CA,Mono,50,3,26
+CA,Monterey,13,0,0
+CA,NAPA,76,1,2
+CA,NEVADA,54,0,0
+CA,Napa,10,0,4
+CA,Nevada,31,0,0
+CA,ORANGE,56,0,2
+CA,Orange,4,1,1
+CA,PLACER,161,1,2
+CA,PLUMAS,15,0,0
+CA,Placer,34,0,4
+CA,Plumas,26,0,10
+CA,RIVERSIDE,624,12,9
+CA,Riverside,388,3,90
+CA,Riverside ,1,1,0
+CA,SACRAMENTO,82,0,1
+CA,SAN BENITO,24,0,0
+CA,SAN BERNARDINO,149,2,9
+CA,SAN DIEGO,175,2,0
+CA,SAN FRANCISCO,6,0,0
+CA,SAN JOAQUIN,68,1,1
+CA,SAN LUIS OBISPO,97,0,1
+CA,SAN MATEO,44,0,2
+CA,SANTA BARBARA,22,2,2
+CA,SANTA CLARA,77,1,0
+CA,SANTA CRUZ,98,0,2
+CA,SHASTA,158,0,2
+CA,SIERRA,1,0,0
+CA,SISKIYOU,67,1,2
+CA,SOLANO,30,0,1
+CA,SONOMA,129,0,4
+CA,STANISLAUS,48,1,0
+CA,SUTTER,14,0,0
+CA,Sacramento,2,1,1
+CA,San Benito,3,0,2
+CA,San Bernardino,115,6,61
+CA,San Diego,86,4,28
+CA,San Diego County,1,1,1
+CA,San Luis Obispo,13,0,2
+CA,San Mateo,1,0,0
+CA,Santa Barbara,2,1,2
+CA,Santa Clara,1,0,0
+CA,Santa Cruz,3,0,0
+CA,Shasta,90,6,24
+CA,Sierra,11,0,1
+CA,Siskiyou,62,4,12
+CA,Solano,1,0,1
+CA,Sonoma,5,0,0
+CA,Stanislaus,2,0,0
+CA,TEHAMA,129,2,1
+CA,TRINITY,18,1,0
+CA,TULARE,61,0,2
+CA,TUOLUMNE,79,1,1
+CA,Tehama,11,3,2
+CA,Trinity,23,1,4
+CA,Trinity County,1,1,1
+CA,Tulare,21,1,6
+CA,Tuolumne,56,1,17
+CA,Unknown,7526,149,838
+CA,VENTURA,1,0,0
+CA,Ventura,2,0,0
+CA,YOLO,40,1,3
+CA,YUBA,68,3,2
+CA,Yolo,11,3,4
+CA,Yuba,9,0,1
+CO,7.0,31,0,1
+CO,13.0,7,0,3
+CO,15.0,4,0,3
+CO,19.0,2,0,0
+CO,21.0,4,0,1
+CO,27.0,3,0,0
+CO,29.0,2,0,0
+CO,33.0,14,1,1
+CO,35.0,5,0,1
+CO,37.0,4,0,0
+CO,41.0,8,0,3
+CO,43.0,1,0,1
+CO,45.0,3,0,0
+CO,47.0,1,0,0
+CO,49.0,3,0,0
+CO,51.0,11,1,0
+CO,53.0,3,0,0
+CO,57.0,3,0,0
+CO,59.0,2,0,0
+CO,65.0,2,0,0
+CO,67.0,14,0,0
+CO,69.0,21,0,4
+CO,71.0,1,1,1
+CO,77.0,6,0,1
+CO,79.0,4,0,0
+CO,83.0,12,1,0
+CO,85.0,10,1,1
+CO,91.0,1,0,0
+CO,93.0,12,0,3
+CO,97.0,2,0,0
+CO,103.0,2,0,2
+CO,105.0,2,0,0
+CO,107.0,7,0,2
+CO,109.0,7,1,2
+CO,113.0,3,0,0
+CO,117.0,6,0,1
+CO,119.0,1,0,0
+CO,123.0,1,0,1
+CO,007,21,0,1
+CO,009,2,0,2
+CO,013,8,0,2
+CO,015,8,0,0
+CO,019,2,0,0
+CO,027,2,0,0
+CO,029,4,0,0
+CO,033,1,0,0
+CO,035,10,0,5
+CO,037,22,0,0
+CO,041,11,1,6
+CO,043,1,0,0
+CO,045,2,0,0
+CO,049,7,0,1
+CO,051,4,0,0
+CO,053,3,0,0
+CO,055,3,0,0
+CO,057,6,0,0
+CO,059,10,0,1
+CO,065,1,0,0
+CO,067,37,1,6
+CO,069,11,1,3
+CO,077,3,0,1
+CO,079,2,0,0
+CO,081,1,0,0
+CO,083,3,0,0
+CO,085,4,0,0
+CO,091,1,0,0
+CO,093,15,0,1
+CO,097,2,0,0
+CO,103,3,0,0
+CO,105,4,0,2
+CO,107,7,1,2
+CO,109,3,0,0
+CO,113,1,0,0
+CO,117,12,0,0
+CO,119,12,0,6
+CO,123,9,2,9
+CO,57,1,0,1
+CO,7,1,0,0
+CO,ADAMS,57,0,7
+CO,ALAMOSA,8,0,0
+CO,ARAPAHOE,56,1,2
+CO,ARCHULETA,3,0,0
+CO,Adams,54,0,0
+CO,Alamosa,3,0,0
+CO,Arapahoe,49,0,1
+CO,Archuleta,14,0,0
+CO,BACA,6,0,4
+CO,BENT,2,0,1
+CO,BOULDER,43,0,1
+CO,Baca,9,0,9
+CO,Bent,4,0,3
+CO,Boulder,36,0,0
+CO,CHAFFEE,3,0,0
+CO,CHEYENNE,7,3,4
+CO,CONEJOS,4,0,0
+CO,CROWLEY,7,0,4
+CO,CUSTER,4,0,0
+CO,Chaffee,10,0,1
+CO,Cheyenne,7,0,4
+CO,Clear Creek,3,0,0
+CO,Conejos,4,0,0
+CO,Crowley,1,0,0
+CO,Custer,3,1,1
+CO,DELTA,7,0,0
+CO,DOUGLAS,15,0,3
+CO,Delta,24,0,0
+CO,Dolores,21,1,1
+CO,Douglas,6,0,0
+CO,EAGLE,4,0,0
+CO,EL PASO,52,1,4
+CO,ELBERT,1,0,1
+CO,Eagle,67,0,0
+CO,El Paso,62,1,5
+CO,El Paso ,1,1,1
+CO,Elbert,6,0,0
+CO,Elbert County,1,1,1
+CO,Fremont,75,1,9
+CO,Garfield,147,3,14
+CO,Gilpin,5,0,0
+CO,Grand,11,0,3
+CO,Gunnison,8,1,1
+CO,HUERFANO/LAS ANIMAS,1,1,1
+CO,Hinsdale,2,0,0
+CO,Huerfano,6,0,1
+CO,Jackson,3,0,0
+CO,Jefferson,55,0,0
+CO,Kiowa,5,0,4
+CO,Kit Carson,1,0,0
+CO,La Plata,30,0,1
+CO,Larimer,52,4,1
+CO,Las Animas,17,1,3
+CO,Logan,1,0,0
+CO,Mesa,191,5,23
+CO,Mineral,1,0,0
+CO,Moffat,171,13,59
+CO,Montezuma,61,1,1
+CO,Montrose,93,2,4
+CO,Morgan,1,0,0
+CO,Otero,37,0,26
+CO,Ouray,1,0,0
+CO,Park,11,0,0
+CO,Phillips,2,1,1
+CO,Pitkin,2,0,0
+CO,Prowers,32,6,27
+CO,Pueblo,78,0,2
+CO,Rio Blanco,206,3,73
+CO,Rio Grande,9,0,0
+CO,Routt,3,1,1
+CO,SAN MIGUEL,2,0,0
+CO,SUMMIT,1,0,0
+CO,Saguache,8,1,0
+CO,San Miguel,14,0,0
+CO,Summit,7,0,0
+CO,TELLER,1,0,1
+CO,Teller,29,0,2
+CO,Unknown,529,9,50
+CO,WASHINGTON,3,1,2
+CO,WELD,47,2,4
+CO,Weld,56,0,4
+CO,YUMA,4,0,4
+CO,Yuma,5,1,4
+CT,Fairfield,24,0,0
+CT,Hartford,19,0,0
+CT,Hartford/Litchfield,1,1,0
+CT,Litchfield,187,0,0
+CT,Middlesex,59,1,0
+CT,New Haven,83,0,0
+CT,New London,56,0,0
+CT,Tolland,37,0,0
+CT,Unknown,120,0,0
+CT,Windham,63,0,0
+DC,Unknown,2,0,0
+DE,SUSSEX,4,0,0
+DE,Sussex,6,0,0
+DE,Unknown,3,0,0
+FL,3.0,8,1,8
+FL,23.0,8,0,8
+FL,37.0,7,2,7
+FL,69.0,17,1,15
+FL,73.0,18,0,16
+FL,77.0,2,0,2
+FL,83.0,43,3,36
+FL,107.0,1,0,1
+FL,129.0,18,1,13
+FL,003,8,1,8
+FL,023,3,0,1
+FL,037,3,1,3
+FL,069,13,0,8
+FL,073,10,1,10
+FL,077,9,0,7
+FL,083,31,4,22
+FL,107,3,1,3
+FL,129,7,0,6
+FL,83,1,0,1
+FL,Alachua,143,3,2
+FL,Baker,63,0,8
+FL,Bay,116,4,31
+FL,Bradford,73,0,9
+FL,Brevard,139,11,122
+FL,Broward,33,10,32
+FL,Calhoun,31,0,7
+FL,Charlotte,151,7,123
+FL,Citrus,113,3,27
+FL,Clay,120,1,19
+FL,Collier,153,11,125
+FL,Columbia,108,1,1
+FL,Dade,76,5,67
+FL,De Soto,27,0,21
+FL,DeSoto,18,0,12
+FL,Dixie,75,0,6
+FL,Duval,79,1,17
+FL,Escambia,90,0,8
+FL,Flagler,112,0,33
+FL,Franklin,41,4,12
+FL,Gadsden,46,0,0
+FL,Gilchrist,60,0,0
+FL,Glades,76,11,69
+FL,Gulf,51,3,19
+FL,Hamilton,101,1,4
+FL,Hardee,53,2,39
+FL,Hendry,86,2,75
+FL,Hernando,68,1,36
+FL,Highlands,218,8,134
+FL,Hillsborough,103,8,71
+FL,Holmes,52,1,7
+FL,Indian River,52,6,44
+FL,Jackson,119,0,10
+FL,Jefferson,45,1,0
+FL,Lafayette,53,2,4
+FL,Lake,120,6,68
+FL,Lee,189,9,119
+FL,Leon,30,0,0
+FL,Levy,211,1,23
+FL,Liberty,27,1,5
+FL,Madison,111,0,0
+FL,Manatee,45,3,34
+FL,Marion,170,2,16
+FL,Martin,73,9,58
+FL,Miami-Dade,85,2,54
+FL,Monroe,9,0,6
+FL,Nassau,93,1,12
+FL,Okaloosa,77,0,10
+FL,Okeechobee,128,4,92
+FL,Orange,109,4,82
+FL,Osceola,89,8,81
+FL,POLK,1,0,1
+FL,Palm Beach,61,8,48
+FL,Pasco,79,6,48
+FL,Pinellas,10,0,9
+FL,Polk,270,14,179
+FL,Putnam,196,6,43
+FL,Santa Rosa,192,6,34
+FL,Sarasota,133,1,94
+FL,Seminole,30,1,21
+FL,St. Johns,122,1,41
+FL,St. Lucie,52,2,36
+FL,Sumter,49,0,27
+FL,Suwannee,119,0,1
+FL,TAYLOR,1,0,0
+FL,Taylor,133,0,0
+FL,Union,47,1,3
+FL,Unknown,358,49,314
+FL,Volusia,267,9,105
+FL,Wakulla,30,3,3
+FL,Walton,123,3,20
+FL,Washington,53,0,6
+GA,55.0,7,0,4
+GA,111.0,5,0,0
+GA,115.0,2,0,0
+GA,123.0,1,0,0
+GA,129.0,1,0,1
+GA,133.0,2,0,1
+GA,137.0,2,0,0
+GA,159.0,1,0,0
+GA,169.0,2,0,0
+GA,187.0,2,1,1
+GA,213.0,5,1,2
+GA,237.0,3,0,2
+GA,241.0,14,0,5
+GA,257.0,2,0,0
+GA,281.0,6,1,1
+GA,291.0,1,0,0
+GA,311.0,1,0,0
+GA,055,3,0,3
+GA,111,4,0,0
+GA,115,1,0,0
+GA,123,1,0,0
+GA,133,1,0,0
+GA,169,1,0,0
+GA,187,4,0,0
+GA,213,2,0,1
+GA,237,1,0,0
+GA,241,8,0,4
+GA,281,1,0,0
+GA,291,1,0,0
+GA,311,2,0,0
+GA,313,3,0,0
+GA,Appling,119,1,0
+GA,Appling             ,57,0,0
+GA,Atkinson,62,1,0
+GA,Atkinson            ,14,0,0
+GA,Bacon,75,0,0
+GA,Bacon               ,24,1,0
+GA,Baker,29,0,0
+GA,Baker               ,14,0,0
+GA,Baldwin,43,0,0
+GA,Baldwin             ,14,0,0
+GA,Banks,16,0,0
+GA,Banks               ,6,0,0
+GA,Barrow,15,0,0
+GA,Barrow              ,7,0,0
+GA,Bartow,82,2,0
+GA,Bartow              ,30,1,0
+GA,Ben Hill,83,0,0
+GA,Ben Hill            ,25,0,0
+GA,Berrien,100,1,0
+GA,Berrien             ,24,0,0
+GA,Bibb,23,0,0
+GA,Bibb                ,10,0,0
+GA,Bleckley,66,0,0
+GA,Bleckley            ,28,0,0
+GA,Brantley,106,1,0
+GA,Brantley            ,42,2,2
+GA,Brooks,88,0,0
+GA,Brooks              ,23,0,1
+GA,Bryan,11,0,0
+GA,Bryan North,36,1,0
+GA,Bryan North         ,4,0,0
+GA,Bryan South,21,0,0
+GA,Bryan South         ,1,0,0
+GA,Bulloch,97,0,0
+GA,Bulloch             ,45,0,0
+GA,Burke,88,0,0
+GA,Burke               ,56,0,0
+GA,Butts,46,0,0
+GA,Butts               ,6,0,0
+GA,Calhoun,38,0,1
+GA,Calhoun             ,7,0,0
+GA,Camden,50,0,0
+GA,Camden              ,17,1,1
+GA,Candler,61,0,0
+GA,Candler             ,24,0,0
+GA,Carroll,70,0,0
+GA,Carroll             ,9,0,1
+GA,Catoosa,62,0,0
+GA,Catoosa             ,12,0,0
+GA,Charlton,63,1,2
+GA,Charlton            ,43,2,1
+GA,Chatham,45,0,0
+GA,Chatham             ,7,0,0
+GA,Chattahoochee,7,0,0
+GA,Chattahoochee       ,7,0,0
+GA,Chattooga,106,0,0
+GA,Chattooga           ,22,0,0
+GA,Cherokee,42,0,0
+GA,Cherokee            ,4,0,0
+GA,Clarke,5,0,0
+GA,Clarke              ,1,0,0
+GA,Clay,14,2,0
+GA,Clay                ,4,1,0
+GA,Clayton,6,0,0
+GA,Clayton             ,3,0,0
+GA,Clinch,39,2,1
+GA,Clinch              ,17,2,1
+GA,Cobb                ,1,0,0
+GA,Coffee,134,1,0
+GA,Coffee              ,41,0,0
+GA,Colquitt,113,1,0
+GA,Colquitt            ,30,1,0
+GA,Columbia,35,0,0
+GA,Columbia            ,7,0,0
+GA,Cook,74,0,0
+GA,Cook                ,19,0,0
+GA,Coweta,54,0,0
+GA,Coweta              ,17,0,0
+GA,Crawford,77,0,0
+GA,Crawford            ,35,0,0
+GA,Crisp,47,0,0
+GA,Crisp               ,17,1,0
+GA,Dade,55,0,1
+GA,Dade                ,30,0,0
+GA,Dawson,39,0,0
+GA,Dawson              ,6,0,0
+GA,Decatur,100,1,0
+GA,Decatur             ,39,0,0
+GA,Dekalb,1,0,0
+GA,Dekalb              ,1,0,0
+GA,Dodge,171,0,0
+GA,Dodge               ,46,0,0
+GA,Dooly,36,0,0
+GA,Dooly               ,18,0,0
+GA,Dougherty,50,0,0
+GA,Dougherty           ,13,0,0
+GA,Douglas,12,0,0
+GA,Douglas             ,2,0,0
+GA,Early,74,0,0
+GA,Early               ,21,0,0
+GA,Echols,27,0,0
+GA,Echols              ,17,0,0
+GA,Effingham,94,0,0
+GA,Effingham           ,27,0,0
+GA,Elbert,57,0,0
+GA,Elbert              ,10,0,0
+GA,Emanuel,123,0,0
+GA,Emanuel             ,43,0,0
+GA,Evans,53,0,0
+GA,Evans               ,16,0,0
+GA,Fannin,56,0,0
+GA,Fannin              ,17,0,0
+GA,Fayette,4,0,0
+GA,Fayette             ,2,0,0
+GA,Floyd,126,0,0
+GA,Floyd               ,30,0,1
+GA,Forsyth,11,0,0
+GA,Forsyth             ,4,0,0
+GA,Franklin,23,0,0
+GA,Franklin            ,14,0,0
+GA,Fulton,11,0,0
+GA,Fulton South,6,0,0
+GA,Fulton South        ,3,0,0
+GA,Gilmer,29,0,0
+GA,Gilmer              ,4,0,0
+GA,Glascock,32,1,0
+GA,Glascock            ,19,0,0
+GA,Glynn,56,0,0
+GA,Glynn               ,14,0,0
+GA,Gordon,29,0,0
+GA,Gordon              ,14,0,0
+GA,Grady,81,0,0
+GA,Grady               ,15,0,0
+GA,Greene,43,0,0
+GA,Greene              ,9,0,0
+GA,Gwinnett,1,0,0
+GA,Gwinnett            ,1,0,0
+GA,Gwinnett North,2,0,0
+GA,Gwinnett South      ,1,0,0
+GA,Habersham,17,0,0
+GA,Habersham           ,9,0,0
+GA,Hall,73,0,0
+GA,Hall                ,15,0,0
+GA,Hancock,57,0,0
+GA,Hancock             ,25,0,0
+GA,Haralson,110,0,0
+GA,Haralson            ,28,0,0
+GA,Harris,42,0,0
+GA,Harris              ,17,0,0
+GA,Hart,20,0,0
+GA,Hart                ,7,0,0
+GA,Heard,26,0,0
+GA,Heard               ,6,0,0
+GA,Henry,45,0,0
+GA,Henry               ,6,0,0
+GA,Houston,47,0,0
+GA,Houston             ,20,1,0
+GA,Irwin,73,1,0
+GA,Irwin               ,17,0,0
+GA,Jackson,10,0,0
+GA,Jackson             ,6,0,0
+GA,Jasper,43,0,1
+GA,Jasper              ,11,0,0
+GA,Jeff Davis,103,0,0
+GA,Jeff Davis          ,32,0,0
+GA,Jefferson,108,0,0
+GA,Jefferson           ,29,0,0
+GA,Jenkins,53,0,0
+GA,Jenkins             ,15,0,0
+GA,Johnson,102,0,0
+GA,Johnson             ,30,0,0
+GA,Jones,73,0,0
+GA,Jones               ,18,0,0
+GA,Lamar,20,0,0
+GA,Lamar               ,12,0,0
+GA,Lanier,56,0,0
+GA,Lanier              ,9,1,0
+GA,Laurens,305,0,0
+GA,Laurens             ,112,0,0
+GA,Lee,51,0,0
+GA,Lee                 ,7,0,0
+GA,Liberty,82,0,0
+GA,Liberty             ,13,0,0
+GA,Lincoln,18,0,0
+GA,Lincoln             ,10,0,0
+GA,Long,65,1,0
+GA,Long                ,35,2,0
+GA,Lowndes,105,0,0
+GA,Lowndes             ,19,0,0
+GA,Lumpkin,76,0,0
+GA,Lumpkin             ,31,0,0
+GA,Macon,44,0,0
+GA,Macon               ,12,0,0
+GA,Madison,30,0,0
+GA,Madison             ,11,0,0
+GA,Marion,91,0,0
+GA,Marion              ,27,1,0
+GA,McDuffie,52,1,0
+GA,McDuffie            ,32,0,0
+GA,McIntosh,68,1,0
+GA,McIntosh            ,17,0,2
+GA,Meriwether,52,1,0
+GA,Meriwether          ,15,0,0
+GA,Miller,35,1,0
+GA,Miller              ,16,0,0
+GA,Mitchell,91,0,0
+GA,Mitchell            ,29,0,0
+GA,Monroe,67,0,0
+GA,Monroe              ,20,0,0
+GA,Montgomery,44,0,0
+GA,Montgomery          ,13,0,0
+GA,Morgan,9,0,0
+GA,Morgan              ,4,0,0
+GA,Murray,39,1,0
+GA,Murray              ,8,0,0
+GA,Muscogee,5,0,0
+GA,Muscogee            ,1,0,0
+GA,Newton,43,0,0
+GA,Newton              ,12,0,1
+GA,Oconee,8,0,0
+GA,Oconee              ,1,0,0
+GA,Oglethorpe,47,0,0
+GA,Oglethorpe          ,14,0,0
+GA,Paulding,65,0,0
+GA,Paulding            ,15,0,0
+GA,Peach,31,0,0
+GA,Peach               ,10,0,0
+GA,Pickens,36,0,0
+GA,Pickens             ,6,0,0
+GA,Pierce,102,1,0
+GA,Pierce              ,17,0,1
+GA,Pike,28,0,0
+GA,Pike                ,13,0,0
+GA,Polk,150,0,1
+GA,Polk                ,20,0,0
+GA,Pulaski,109,0,0
+GA,Pulaski             ,24,0,0
+GA,Putnam,40,0,0
+GA,Putnam              ,9,0,0
+GA,Quitman,12,0,0
+GA,Quitman             ,4,0,0
+GA,Rabun,10,0,0
+GA,Rabun               ,2,0,0
+GA,Randolph,50,0,0
+GA,Randolph            ,22,0,0
+GA,Richmond,56,0,0
+GA,Richmond            ,18,0,0
+GA,Rockdale,12,0,0
+GA,Rockdale            ,1,0,0
+GA,Schley,23,0,0
+GA,Schley              ,5,0,0
+GA,Screven,104,0,0
+GA,Screven             ,31,1,0
+GA,Seminole,60,0,0
+GA,Seminole            ,13,0,0
+GA,Spalding,31,0,0
+GA,Spalding            ,12,0,0
+GA,Stephens,36,0,0
+GA,Stephens            ,2,0,0
+GA,Stewart,46,0,0
+GA,Stewart             ,16,0,1
+GA,Sumter,97,0,0
+GA,Sumter              ,25,0,0
+GA,Talbot,74,0,0
+GA,Talbot              ,21,0,0
+GA,Taliaferro,19,0,0
+GA,Taliaferro          ,4,0,0
+GA,Tattnall,85,0,0
+GA,Tattnall            ,29,0,0
+GA,Taylor,57,0,0
+GA,Taylor              ,26,1,0
+GA,Telfair,118,0,0
+GA,Telfair             ,42,0,0
+GA,Terrell,13,0,0
+GA,Terrell             ,8,1,0
+GA,Thomas,82,0,0
+GA,Thomas              ,25,0,0
+GA,Tift,77,0,0
+GA,Tift                ,29,0,0
+GA,Toombs,128,0,0
+GA,Toombs              ,46,0,0
+GA,Towns,14,0,0
+GA,Towns               ,3,0,0
+GA,Treutlen,110,0,0
+GA,Treutlen            ,42,0,0
+GA,Troup,37,1,0
+GA,Troup               ,9,0,0
+GA,Turner,55,0,0
+GA,Turner              ,21,0,0
+GA,Twiggs,114,0,0
+GA,Twiggs              ,39,1,0
+GA,Union,51,0,0
+GA,Union               ,5,0,0
+GA,Unknown,42,6,13
+GA,Upson,82,1,0
+GA,Upson               ,19,0,0
+GA,Walker,93,0,0
+GA,Walker              ,16,0,0
+GA,Walton,32,0,0
+GA,Walton              ,8,0,1
+GA,Ware,120,0,1
+GA,Ware                ,33,0,1
+GA,Warren,42,0,0
+GA,Warren              ,16,0,0
+GA,Washington,123,2,0
+GA,Washington          ,31,0,0
+GA,Wayne,134,1,0
+GA,Wayne               ,42,1,1
+GA,Webster,33,0,0
+GA,Webster             ,17,0,0
+GA,Wheeler,106,0,0
+GA,Wheeler             ,27,0,0
+GA,White,25,0,0
+GA,White               ,8,0,0
+GA,Whitfield,27,0,0
+GA,Whitfield           ,9,0,0
+GA,Wilcox,112,0,0
+GA,Wilcox              ,30,0,0
+GA,Wilkes,30,0,0
+GA,Wilkes              ,8,0,0
+GA,Wilkinson,70,1,0
+GA,Wilkinson           ,26,0,0
+GA,Worth,64,0,0
+GA,Worth               ,23,0,0
+HI,HAWAII,2,1,0
+HI,Hawaii,184,15,137
+HI,Honolulu,1,0,1
+HI,Kauai,152,0,1
+HI,Lanai,1,0,0
+HI,Mauii,169,2,5
+HI,Molokaii,18,0,0
+HI,Oahu,830,10,3
+HI,Unknown,9,1,6
+IA,Adair,13,0,2
+IA,Adams,1,0,1
+IA,Allamakee,8,0,1
+IA,Appanoose,16,2,8
+IA,Audubon,3,0,2
+IA,Benton,11,1,2
+IA,Black Hawk,4,0,0
+IA,Blackhawk,4,0,0
+IA,Boone,2,0,1
+IA,Bremer,10,0,3
+IA,Buchanan,8,1,1
+IA,Buena Vista,2,0,1
+IA,Butler,5,0,0
+IA,Calhoun,7,0,1
+IA,Carroll,7,0,0
+IA,Cass,10,0,6
+IA,Cedar,12,2,1
+IA,Cerro Gordo,3,0,2
+IA,Cherokee,21,1,12
+IA,Chickasaw,10,1,1
+IA,Clayton,5,0,0
+IA,Clinton,11,0,0
+IA,Crawford,6,0,4
+IA,Dallas,3,0,2
+IA,Davis,2,0,1
+IA,Delaware,12,0,2
+IA,Delware,2,0,0
+IA,Des Moines,3,0,0
+IA,Dickinson,3,1,2
+IA,Dubuque,2,0,0
+IA,Emmet,2,0,0
+IA,Emmett,1,0,0
+IA,Fayette,18,0,1
+IA,Floyd,7,0,3
+IA,Fremont,8,0,6
+IA,Greene,3,0,0
+IA,Greene & Dallas,1,0,1
+IA,Grundy,3,0,1
+IA,Guthrie,9,1,1
+IA,Hamilton,11,0,2
+IA,Hardin,3,0,0
+IA,Harrison,22,1,18
+IA,Henry,2,0,0
+IA,Howard,5,0,0
+IA,Ida,4,0,2
+IA,Iowa,24,0,11
+IA,Jackson,6,0,2
+IA,Jasper,7,0,4
+IA,Jefferson,8,0,4
+IA,Johnson,26,0,2
+IA,Jones,16,0,2
+IA,Jones ,1,0,0
+IA,Jones & Linn,1,0,0
+IA,Keokuk,5,0,2
+IA,Kossuth,4,0,2
+IA,Lee,7,0,2
+IA,Linn,2,0,0
+IA,Louisa,12,0,0
+IA,Lucas,16,1,5
+IA,Lyon,1,0,1
+IA,Madison,3,0,0
+IA,Mahaska,10,0,3
+IA,Marion,6,0,5
+IA,Marshall,3,0,1
+IA,Mills,5,0,3
+IA,Mitchell,3,0,0
+IA,Monona,10,0,8
+IA,Monroe,2,0,1
+IA,Montgomery,7,0,1
+IA,Muscatine,7,0,0
+IA,Osceola,4,0,4
+IA,Page,2,0,0
+IA,Palo Alto,1,0,0
+IA,Plymouth,1,0,0
+IA,Pocahontas,3,0,2
+IA,Polk,11,0,3
+IA,Pottawattamie,4,0,3
+IA,Poweshiek,13,0,8
+IA,Ringgold,1,0,0
+IA,SHelby,1,0,0
+IA,Sac,1,0,0
+IA,Scott,5,0,0
+IA,Shelby,9,2,6
+IA,Sioux,2,0,2
+IA,Story,19,1,8
+IA,Tama,21,0,5
+IA,Taylor,7,0,4
+IA,Union,23,0,10
+IA,Unknown,42,0,16
+IA,Van Buren,2,0,0
+IA,Vanburean,1,0,0
+IA,Warren,11,0,4
+IA,Warren ,1,0,1
+IA,Washington,8,0,3
+IA,Wayne,11,3,7
+IA,Webster,9,0,3
+IA,Winnebago,3,0,3
+IA,Winneshiek,9,0,0
+IA,Woodbury,24,2,16
+IA,Worth,9,0,3
+ID,1.0,2,0,1
+ID,3.0,32,2,24
+ID,5.0,8,0,4
+ID,7.0,4,0,3
+ID,13.0,10,1,4
+ID,15.0,60,2,43
+ID,17.0,24,0,2
+ID,19.0,10,1,9
+ID,21.0,26,1,4
+ID,23.0,1,0,0
+ID,25.0,2,0,1
+ID,29.0,6,1,5
+ID,31.0,8,1,8
+ID,33.0,4,1,3
+ID,35.0,30,2,22
+ID,37.0,31,5,19
+ID,39.0,17,0,10
+ID,41.0,1,1,1
+ID,43.0,10,1,5
+ID,45.0,5,0,3
+ID,49.0,222,29,193
+ID,55.0,11,1,6
+ID,59.0,36,5,27
+ID,65.0,1,0,0
+ID,71.0,2,0,1
+ID,77.0,1,0,1
+ID,79.0,52,2,20
+ID,81.0,2,0,1
+ID,85.0,73,9,64
+ID,87.0,4,0,4
+ID,001,5,1,3
+ID,003,24,1,17
+ID,005,5,0,4
+ID,007,8,1,2
+ID,013,6,0,1
+ID,015,44,6,32
+ID,017,12,1,1
+ID,019,8,0,5
+ID,021,9,0,0
+ID,025,3,0,2
+ID,029,4,0,4
+ID,031,6,0,5
+ID,033,3,0,2
+ID,035,25,2,18
+ID,037,14,1,10
+ID,039,11,1,9
+ID,041,1,0,1
+ID,043,9,1,5
+ID,045,2,0,2
+ID,049,196,28,164
+ID,055,12,0,5
+ID,057,1,0,0
+ID,059,32,1,21
+ID,071,3,1,3
+ID,077,1,0,1
+ID,079,51,5,31
+ID,083,1,1,1
+ID,085,50,1,37
+ID,087,12,3,12
+ID,17,1,0,0
+ID,3,1,0,0
+ID,79,1,0,0
+ID,85,1,0,0
+ID,Ada,218,13,202
+ID,Adams,17,0,13
+ID,BENEWAH,2,0,1
+ID,BOISE,2,0,2
+ID,BONNER,3,0,0
+ID,BOUNDARY,1,0,0
+ID,Bannock,26,1,21
+ID,Bear Lake,8,0,5
+ID,Benewah,25,0,8
+ID,Bingham,17,3,17
+ID,Blaine,17,4,17
+ID,Boise,33,0,20
+ID,Bonner,72,0,4
+ID,Bonneville,11,3,8
+ID,Boundary,32,0,3
+ID,Butte,15,4,15
+ID,CLEARWATER,8,0,5
+ID,Camas,3,0,3
+ID,Canyon,6,1,6
+ID,Caribou,5,3,5
+ID,Cassia,39,10,39
+ID,Clark,3,2,3
+ID,Clearwater,74,2,27
+ID,Custer,9,0,7
+ID,Elmore,99,18,98
+ID,Franklin,1,1,1
+ID,Fremont,1,0,1
+ID,GEM,1,0,1
+ID,Gem,11,1,10
+ID,Gooding,21,6,21
+ID,IDAHO,2,0,0
+ID,Idaho,74,11,62
+ID,Jefferson,2,0,2
+ID,Jerome,21,4,21
+ID,KOOTENAI,2,0,0
+ID,Kootenai,37,1,4
+ID,LATAH,3,0,1
+ID,Latah,24,0,15
+ID,Lemhi,19,2,13
+ID,Lewis,6,0,4
+ID,Lincoln,32,14,32
+ID,Minidoka,11,1,9
+ID,NEZ PERCE,1,0,1
+ID,Nez Perce,7,1,4
+ID,Oneida,18,3,18
+ID,Owyhee,77,34,76
+ID,Payette,7,1,7
+ID,Power,17,5,17
+ID,SHOSHONE,1,0,0
+ID,Shoshone,31,0,8
+ID,Teton,1,0,0
+ID,Twin Falls,36,8,36
+ID,Unknown,366,24,212
+ID,VALLEY,3,0,1
+ID,Valley,61,0,38
+ID,Washington,10,3,10
+IL,3.0,1,0,0
+IL,69.0,1,0,1
+IL,77.0,1,0,0
+IL,87.0,1,0,0
+IL,127.0,1,0,0
+IL,151.0,8,0,3
+IL,165.0,1,1,0
+IL,181.0,4,0,3
+IL,197.0,2,0,1
+IL,003,1,0,1
+IL,069,5,0,1
+IL,077,3,1,2
+IL,087,4,0,1
+IL,1,8,0,2
+IL,127,1,0,0
+IL,151,1,0,1
+IL,181,3,0,2
+IL,197,1,0,0
+IL,3,3,0,0
+IL,45,4,0,0
+IL,49,1,0,0
+IL,50,1,0,0
+IL,56,1,0,0
+IL,57,1,0,0
+IL,60,1,0,0
+IL,62,2,0,0
+IL,67,2,0,0
+IL,68,1,0,0
+IL,69,1,0,0
+IL,73,1,0,0
+IL,75,7,0,0
+IL,79,3,0,0
+IL,82,2,0,0
+IL,84,5,0,0
+IL,89,2,0,0
+IL,94,3,0,0
+IL,Adams,7,0,1
+IL,Alexander,1,0,0
+IL,Bond,2,0,0
+IL,Bureau,1,0,0
+IL,Carroll,4,1,0
+IL,Christian,2,0,0
+IL,Clay,9,0,0
+IL,Clinton,1,0,0
+IL,Cumberlin,4,0,0
+IL,Franklin,4,0,0
+IL,Grundy,4,0,2
+IL,Hardin,2,0,1
+IL,Henry,1,0,0
+IL,Jersey,1,0,0
+IL,Jo Davies,1,0,0
+IL,JoDavies,5,0,0
+IL,Johnson,1,0,0
+IL,Kankakee,11,0,0
+IL,LaSalle,7,0,2
+IL,Lake,7,0,0
+IL,Lawrence,1,0,0
+IL,Lee,3,0,0
+IL,Logan,5,0,0
+IL,Macoupin,8,0,1
+IL,Madison,1,0,0
+IL,Mason,1,0,0
+IL,Massac,17,0,1
+IL,McDonough,2,0,0
+IL,McHenry,1,0,0
+IL,McLean,4,0,0
+IL,Mclean,1,0,0
+IL,Mercer,1,0,0
+IL,Monroe,9,0,1
+IL,Morgan,6,0,0
+IL,Ogle,4,1,0
+IL,Peoria,1,0,0
+IL,Perry,3,0,1
+IL,Piatt,2,0,0
+IL,Pike,1,0,0
+IL,Pope,7,0,3
+IL,Putnam,2,0,0
+IL,Rock Island,9,0,0
+IL,Saline,3,1,2
+IL,Sangamon,5,0,0
+IL,St Clair,5,0,0
+IL,St. Clair,4,0,0
+IL,St.Clair,5,0,0
+IL,Stephenson,3,0,0
+IL,Tazewell,1,0,0
+IL,Union,3,0,0
+IL,Unknown,59,0,12
+IL,Vermillion,7,0,1
+IL,Will,2,0,0
+IL,Williamson,19,0,0
+IL,Woodford,5,0,1
+IL,franklin,1,0,0
+IL,livingston,3,0,1
+IL,woodford,4,0,0
+IN,25.0,2,0,1
+IN,71.0,3,0,1
+IN,93.0,1,0,1
+IN,105.0,2,0,1
+IN,117.0,5,0,1
+IN,123.0,1,0,0
+IN,013,1,0,0
+IN,025,4,0,1
+IN,071,1,0,0
+IN,093,3,0,0
+IN,105,3,0,0
+IN,117,3,0,1
+IN,123,3,0,3
+IN,25,1,0,0
+IN,Bartholomew,1,1,1
+IN,Lawrence,1,0,0
+IN,Martin,1,0,1
+IN,Orange,1,0,1
+IN,Pike,1,1,1
+IN,Ripley,3,1,2
+IN,Unknown,108,3,10
+KS,129.0,1,0,0
+KS,021,1,1,1
+KS,061,2,2,2
+KS,107,1,1,1
+KS,129,1,0,1
+KS,139,1,1,1
+KS,149,2,2,2
+KS,155,1,1,1
+KS,Allen,9,0,3
+KS,Anderson,31,2,9
+KS,Atchison,4,0,1
+KS,BARBER,1,1,1
+KS,Barber,2,1,2
+KS,Barton,12,0,7
+KS,Bourbon,23,2,4
+KS,Brown,10,0,2
+KS,Butler,41,1,26
+KS,Butler County,1,1,1
+KS,COWLEY,1,1,1
+KS,Chase,5,0,4
+KS,Chautauqua,9,1,3
+KS,Cherokee,28,0,6
+KS,Cheyenne,3,1,3
+KS,Clay,3,0,2
+KS,Cloud,1,0,1
+KS,Coffey,10,2,9
+KS,Comanche,4,0,4
+KS,Cowley,37,2,17
+KS,"Cowley County, KS",1,1,1
+KS,Crawford,22,0,10
+KS,Dickinson,24,1,10
+KS,Doniphan,3,0,2
+KS,Douglas,38,0,12
+KS,Edwards,2,0,0
+KS,Elk,15,2,9
+KS,Ellis,14,0,12
+KS,Ellsworth,7,0,6
+KS,Finney,6,0,5
+KS,Ford,10,1,6
+KS,Franklin,31,0,12
+KS,Geary,11,0,8
+KS,Gove,1,0,1
+KS,Graham,3,1,3
+KS,Grant,2,0,0
+KS,Greenwood,9,7,9
+KS,Greenwood County,1,1,1
+KS,Hamilton,1,0,0
+KS,Harper,3,0,2
+KS,Harvey,6,1,4
+KS,Haskell,1,0,1
+KS,Hodgeman,2,0,1
+KS,Jackson,24,1,10
+KS,Jefferson,14,0,5
+KS,Jewell,1,0,1
+KS,Johnson,48,0,7
+KS,Kingman,5,0,3
+KS,Kiowa,1,1,1
+KS,LYON ,1,1,1
+KS,Labette,3,0,1
+KS,Lane,2,1,1
+KS,Leavenworth,34,2,7
+KS,Leavenworth County,1,1,1
+KS,Lincoln,1,0,0
+KS,Linn,10,1,6
+KS,Logan,2,2,2
+KS,Lyon,31,1,25
+KS,Marion,12,0,10
+KS,Marshall,5,1,3
+KS,Mcpherson,14,0,12
+KS,Meade,5,1,4
+KS,"Meade, KS",1,1,1
+KS,Miami,27,0,7
+KS,Mitchell,1,0,0
+KS,Montgomery,33,0,14
+KS,Morris,10,1,5
+KS,"Morris County, KS",1,1,1
+KS,Morton,2,0,2
+KS,Nemaha,13,2,4
+KS,Neosho,11,0,5
+KS,Ness,1,0,1
+KS,Norton,1,0,0
+KS,Osage,22,0,10
+KS,Ottawa,5,1,2
+KS,Pawnee,3,0,1
+KS,Phillips,1,1,1
+KS,Pottawatomie,14,1,8
+KS,Pratt,10,1,4
+KS,RENO,1,1,1
+KS,Reno,35,1,28
+KS,Republic,1,0,0
+KS,Rice,4,0,2
+KS,Riley,15,0,7
+KS,Riley County,3,3,3
+KS,Rooks,2,0,2
+KS,Rush,1,0,1
+KS,Russell,2,0,2
+KS,Saline,14,0,7
+KS,Sedgwick,85,0,37
+KS,Seward,2,0,2
+KS,Shawnee,76,1,26
+KS,Sheridan,2,0,2
+KS,Sherman,1,0,1
+KS,Smith,2,0,2
+KS,Stafford,11,1,5
+KS,Stevens,5,1,5
+KS,Sumner,33,0,22
+KS,Thomas,1,0,0
+KS,Unknown,185,19,131
+KS,Wabaunsee,12,1,7
+KS,Wallace,1,0,1
+KS,Washington,4,1,2
+KS,Wilson,13,1,6
+KS,Wilson County,1,1,1
+KS,Wyandotte,19,0,1
+KY,11.0,1,0,1
+KY,51.0,15,2,15
+KY,65.0,1,0,1
+KY,109.0,9,1,9
+KY,125.0,10,2,9
+KY,129.0,1,0,1
+KY,131.0,17,5,17
+KY,143.0,1,0,0
+KY,147.0,26,2,25
+KY,165.0,2,1,2
+KY,175.0,1,0,1
+KY,189.0,1,0,1
+KY,199.0,1,0,1
+KY,203.0,3,1,2
+KY,205.0,6,0,6
+KY,235.0,1,0,1
+KY,237.0,1,0,1
+KY,051,4,0,4
+KY,065,1,0,1
+KY,109,3,1,3
+KY,125,6,0,5
+KY,129,1,0,1
+KY,131,2,1,2
+KY,143,1,0,1
+KY,147,11,0,11
+KY,165,3,0,3
+KY,189,1,0,1
+KY,197,1,1,1
+KY,199,1,0,1
+KY,203,5,0,5
+KY,205,1,0,1
+KY,221,1,0,1
+KY,235,1,0,0
+KY,237,1,0,0
+KY,Adair,11,0,5
+KY,Allen,2,0,0
+KY,Ballard,2,0,1
+KY,Barren,3,0,0
+KY,Bath,4,0,2
+KY,Bell,90,7,69
+KY,Boone,1,0,0
+KY,Boyd,24,0,8
+KY,Breathitt,113,6,100
+KY,Breckinridge,20,0,11
+KY,Bullitt,7,0,6
+KY,Butler,9,0,1
+KY,Buttler,9,0,4
+KY,Cakdwell,5,0,2
+KY,Caldwell,5,0,1
+KY,Calloway,18,0,5
+KY,Carlisle,3,0,0
+KY,Carter,77,0,28
+KY,Casey,22,0,10
+KY,Christian,9,0,3
+KY,Clay,136,4,98
+KY,Clinton,27,2,12
+KY,Crittenden,2,0,1
+KY,Cumberland,19,0,5
+KY,Daviess,6,0,0
+KY,Edmonson,6,0,2
+KY,Elliott,15,0,14
+KY,Estill,43,0,32
+KY,FLOYD,1,1,1
+KY,Fleming,7,0,3
+KY,Floyd,154,13,125
+KY,Fulton,7,0,2
+KY,Gallatin,1,0,0
+KY,Garrard,3,0,1
+KY,Grant,1,0,0
+KY,Graves,24,1,3
+KY,Grayson,12,0,1
+KY,Green,10,0,5
+KY,Greenup,74,5,11
+KY,Hancock,3,0,1
+KY,Hardin,13,1,1
+KY,Harlan,75,13,54
+KY,Hart,10,0,2
+KY,Henderson,2,0,2
+KY,Henry,2,0,0
+KY,Hickman,7,0,2
+KY,Hopkins,16,3,4
+KY,Jackson,68,3,49
+KY,Johnson,57,4,47
+KY,Knott,131,10,101
+KY,Knox,130,4,83
+KY,Larue,5,0,1
+KY,Laurel,34,1,19
+KY,Lawrence,59,2,44
+KY,Lee,59,1,37
+KY,Leslie,77,6,61
+KY,Letcher,79,3,59
+KY,Lewis,31,2,7
+KY,Lincoln,20,0,12
+KY,Livingston,8,0,2
+KY,Logan,6,1,4
+KY,Lyon,5,0,0
+KY,Madison,17,0,15
+KY,Magoffin,111,9,94
+KY,Marion,5,0,4
+KY,Marshall,10,0,1
+KY,Martin,65,3,56
+KY,Mason,1,0,0
+KY,McCracken,8,0,2
+KY,McCreary,11,0,10
+KY,McLean,2,0,0
+KY,Mclean,1,0,1
+KY,Meade,11,0,4
+KY,Menifee,6,0,6
+KY,Mercer,2,0,0
+KY,Metcalfe,12,2,7
+KY,Monroe,24,0,8
+KY,Montgomery,9,0,6
+KY,Morgan,56,0,49
+KY,Muhlenberg,38,1,13
+KY,Nelson,8,0,1
+KY,Nicholas,1,0,0
+KY,Ohio,17,1,2
+KY,Owsley,81,3,60
+KY,PERRY,1,1,1
+KY,Pendleton,1,0,0
+KY,Perry,218,13,170
+KY,Pike,155,30,122
+KY,Powell,13,0,9
+KY,Pulaski,15,0,9
+KY,Rockcastle,50,3,27
+KY,Rowan,25,0,10
+KY,Russell,3,1,3
+KY,Simpson,2,0,0
+KY,Taylor,12,0,5
+KY,Todd,3,0,0
+KY,Trigg,5,0,1
+KY,Trimble,2,0,0
+KY,Union,2,0,1
+KY,Unknown,15,1,13
+KY,WAYNE,1,1,1
+KY,Warren,8,0,0
+KY,Wayne,30,3,14
+KY,Webster,7,0,4
+KY,Whitley,91,5,62
+KY,Wolfe,51,0,26
+LA,43.0,10,1,9
+LA,79.0,11,1,8
+LA,115.0,8,0,8
+LA,119.0,1,0,1
+LA,127.0,3,1,2
+LA,027,1,0,1
+LA,043,10,0,7
+LA,069,5,2,4
+LA,079,12,1,8
+LA,115,14,0,9
+LA,127,5,0,3
+LA,Acadia,2,0,0
+LA,Allen,146,2,20
+LA,Avoyelles,1,0,0
+LA,Beauregard,268,6,104
+LA,Bienville,51,1,4
+LA,Bossier,51,1,1
+LA,CADDO,1,0,0
+LA,Caddo,68,1,4
+LA,Calcasieu,61,2,26
+LA,Caldwell,41,0,1
+LA,Cameron,4,3,3
+LA,Catahoula,26,0,1
+LA,Claiborne,70,0,3
+LA,De Soto,37,0,1
+LA,Desoto,16,0,0
+LA,EVANGELINE,1,0,0
+LA,East Baton Rouge,3,0,0
+LA,East Carroll,1,0,0
+LA,East Feliciana,25,2,0
+LA,Evangeline,41,0,2
+LA,Franklin,4,0,0
+LA,Grant,41,1,1
+LA,Jackson,27,0,1
+LA,Jefferson Davis,3,0,0
+LA,La Salle,27,1,0
+LA,LaSalle,29,0,0
+LA,Lincoln,22,0,2
+LA,Livingston,121,0,23
+LA,Morehouse,19,0,0
+LA,Natchitoches,74,1,1
+LA,Orleans,2,2,2
+LA,Ouachita,18,0,0
+LA,Rapides,163,4,12
+LA,Rapides-2,22,0,2
+LA,Rapides-6 (3),1,0,0
+LA,Red River,46,0,2
+LA,Richland,8,0,0
+LA,Sabine,106,2,2
+LA,St Helena,82,0,0
+LA,St Tammany,31,0,1
+LA,St. Helena,82,1,4
+LA,St. Landry,2,0,0
+LA,St. Tammany,88,0,14
+LA,Tangipahoa,161,2,7
+LA,Tensas,1,0,0
+LA,Union,32,0,0
+LA,Unknown,592,25,139
+LA,VERNON,1,0,0
+LA,Vernon,138,2,16
+LA,Vernon Parish,1,1,1
+LA,Washington,117,3,7
+LA,Webster,45,0,1
+LA,West Carroll,20,0,0
+LA,West Feliciana,4,1,1
+LA,Winn,50,1,8
+LA,washington,1,0,0
+MA,009,1,0,0
+MA,BERKSHIRE,15,0,0
+MA,Barnstable,27,0,0
+MA,Bristol,7,0,0
+MA,Dukes,1,0,0
+MA,Essex,11,0,0
+MA,Hampden,69,0,0
+MA,Hampshire,18,0,0
+MA,Middlesex,22,0,0
+MA,Norfolk,80,0,0
+MA,Plymouth,107,0,0
+MA,Suffolk,1,0,0
+MA,Unknown,28,1,0
+MA,Worcester,59,1,1
+MD,Allegany,36,0,0
+MD,Anne Arundel,3,0,0
+MD,Baltimore,12,0,0
+MD,Calvert,20,0,1
+MD,Caroline,57,0,0
+MD,Carroll,1,0,0
+MD,Cecil,36,0,0
+MD,Charles,94,0,1
+MD,Dorchester,64,8,11
+MD,Frederick,22,0,1
+MD,Garrett,22,0,0
+MD,Harford,25,0,0
+MD,Howard,6,0,0
+MD,Kent,10,0,0
+MD,Montgomery,7,1,1
+MD,Prince George's,11,0,0
+MD,Prince Georges,3,0,0
+MD,Queen Anne's,22,0,0
+MD,Queen Annes,6,0,0
+MD,Somerset,21,0,1
+MD,St. Mary's,25,0,0
+MD,St. Marys,16,0,1
+MD,Talbot,46,0,0
+MD,Unknown,39,3,11
+MD,Washington,25,0,0
+MD,Wicomico,32,0,0
+MD,Worcester,11,1,2
+ME,ANDROSCOGGIN,1,0,0
+ME,AROOSTOOK,5,0,0
+ME,Androscoggin,24,0,0
+ME,Aroostook,82,0,0
+ME,Cumberland,40,0,0
+ME,Franklin,25,0,0
+ME,HANCOCK,2,0,0
+ME,Hancock,42,0,0
+ME,KENNEBEC,26,0,0
+ME,KNOX,6,0,0
+ME,Kennebec,47,0,0
+ME,Knox,16,0,0
+ME,LINCOLN,4,0,0
+ME,Lincoln,10,0,0
+ME,OXFORD,17,0,0
+ME,Oxford,35,0,0
+ME,PENOBSCOT,55,0,0
+ME,PISCATAQUIS,15,0,0
+ME,Penobscot,102,0,0
+ME,Piscataquis,34,0,0
+ME,SAGADAHOC,4,0,0
+ME,SOMERSET,13,0,0
+ME,Sagadahoc,12,0,0
+ME,Somerset,57,0,0
+ME,Unknown,99,0,0
+ME,WALDO,10,0,0
+ME,WASHINGTON,35,0,0
+ME,Waldo,25,0,0
+ME,Washington,69,0,0
+ME,YORK,27,0,0
+ME,York,59,0,0
+MI,1.0,6,0,0
+MI,3.0,3,0,0
+MI,13.0,1,0,0
+MI,33.0,3,0,0
+MI,69.0,14,0,0
+MI,85.0,24,0,0
+MI,97.0,4,0,0
+MI,101.0,3,0,0
+MI,103.0,1,0,0
+MI,105.0,5,0,0
+MI,123.0,28,0,0
+MI,129.0,2,0,0
+MI,131.0,1,0,0
+MI,135.0,6,0,0
+MI,165.0,5,0,0
+MI,001,8,0,0
+MI,003,2,0,0
+MI,033,4,0,0
+MI,041,2,0,0
+MI,053,4,0,0
+MI,061,1,0,0
+MI,069,31,0,0
+MI,071,4,0,0
+MI,085,26,1,0
+MI,097,4,0,0
+MI,101,15,0,0
+MI,105,10,0,0
+MI,123,40,0,1
+MI,129,2,0,0
+MI,131,2,0,0
+MI,135,8,0,0
+MI,165,6,0,0
+MI,33,1,0,0
+MI,69,1,0,0
+MI,85,5,0,0
+MI,97,1,0,0
+MI,ALCONA,11,0,0
+MI,ALCONA                                            ,1,0,0
+MI,ALGER,1,0,0
+MI,ALGER                                             ,1,0,0
+MI,ALLEGAN,2,0,0
+MI,ALPENA,10,0,0
+MI,ANTRIM,2,0,0
+MI,ARENAC,3,0,0
+MI,Alcona,22,0,0
+MI,Alger,1,0,0
+MI,Allegan,4,0,0
+MI,Alpena,17,0,0
+MI,Antrim,11,0,0
+MI,Arenac,16,0,0
+MI,BARAGA                                            ,1,0,0
+MI,BARRY,1,0,0
+MI,BENZIE,1,0,0
+MI,Baraga,9,0,0
+MI,Barry,7,0,0
+MI,Benzie,5,0,0
+MI,CALHOUN,1,0,0
+MI,CHARLEVOIX,1,0,0
+MI,CHEBOYGAN,3,0,0
+MI,CHIPPEWA,5,0,0
+MI,CLARE,12,0,0
+MI,CLARE                                             ,2,0,0
+MI,CRAWFORD,8,0,1
+MI,CRAWFORD                                          ,4,1,0
+MI,Charlevoix,6,0,0
+MI,Cheboygan,9,0,0
+MI,Chippewa,6,1,0
+MI,Clare,31,0,0
+MI,Crawford,29,1,1
+MI,DELTA,2,0,0
+MI,DELTA                                             ,2,0,0
+MI,DICKINSON,4,0,0
+MI,DICKINSON                                         ,3,0,1
+MI,Delta,6,0,0
+MI,Dickinson,7,0,0
+MI,EMMET,3,0,0
+MI,Emmet,10,0,0
+MI,GLADWIN,3,0,0
+MI,GLADWIN                                           ,1,0,0
+MI,GRAND TRAVERSE,2,0,0
+MI,Gladwin,12,0,0
+MI,Gogebic,1,0,0
+MI,Grand Traverse,5,0,0
+MI,HOUGHTON,1,0,0
+MI,Houghton,2,0,0
+MI,IRON,2,0,0
+MI,IRON                                              ,2,0,0
+MI,ISABELLA,3,0,0
+MI,Ionia,1,0,0
+MI,Iosco,7,0,0
+MI,Iron,5,1,0
+MI,Isabella,2,0,0
+MI,Jackson,1,0,0
+MI,KALKASKA,3,1,0
+MI,KALKASKA                                          ,1,0,0
+MI,KENT,1,0,0
+MI,KEWEENAW,1,0,0
+MI,Kalkaska,19,0,0
+MI,Keweenaw,1,0,0
+MI,LUCE,6,0,0
+MI,Lake,11,0,0
+MI,Lapeer,2,0,0
+MI,Leelanau,2,0,0
+MI,Livingston,2,0,0
+MI,Luce,10,0,0
+MI,MARQUETTE,16,0,0
+MI,MARQUETTE                                         ,3,0,0
+MI,MASON,2,0,0
+MI,MECOSTA,3,0,0
+MI,MENOMINEE,9,0,0
+MI,MIDLAND,10,0,1
+MI,MIDLAND                                           ,1,0,0
+MI,MISSAUKEE,4,0,0
+MI,MONROE,1,0,0
+MI,MONTMORENCY,6,0,0
+MI,MONTMORENCY                                       ,1,0,0
+MI,MUSKEGON,5,1,0
+MI,Mackinac,7,0,0
+MI,Manistee,4,0,0
+MI,Marquette,34,0,0
+MI,Mason,1,0,0
+MI,Mecosta,2,0,0
+MI,Menominee,14,0,0
+MI,Midland,17,0,1
+MI,Missaukee,10,0,0
+MI,Montcalm,2,0,0
+MI,Montmorency,18,0,0
+MI,Muskegon,9,0,0
+MI,Newaygo,2,0,0
+MI,OAKLAND,1,0,0
+MI,OCEANA,1,0,0
+MI,OGEMAW,4,0,0
+MI,OGEMAW                                            ,1,0,0
+MI,OSCEOLA,1,0,0
+MI,OSCEOLA                                           ,1,0,0
+MI,OSCODA,1,0,0
+MI,OSCODA                                            ,1,0,0
+MI,OTSEGO,7,0,0
+MI,OTSEGO                                            ,1,0,0
+MI,Oceana,14,0,0
+MI,Ogemaw,12,0,0
+MI,Ontonagon,1,0,0
+MI,Osceola,14,0,0
+MI,Oscoda,8,0,0
+MI,Otsego,24,0,0
+MI,Ottawa,3,0,0
+MI,PRESQUE ISLE,5,0,1
+MI,PRESQUE ISLE                                      ,1,0,0
+MI,Presque Isle,4,0,0
+MI,ROSCOMMON,8,0,0
+MI,ROSCOMMON                                         ,1,0,0
+MI,Roscommon,21,0,0
+MI,SANILAC,1,0,0
+MI,SCHOOLCRAFT,1,0,0
+MI,SHIAWASSEE,1,0,0
+MI,Schoolcraft,5,1,1
+MI,St. Clair,1,0,0
+MI,TUSCOLA,1,1,0
+MI,Tuscola,1,0,0
+MI,Unknown,50,0,0
+MI,Van Buren,1,0,0
+MI,WEXFORD,2,0,0
+MI,Wexford,5,0,0
+MN,7.0,7,0,0
+MN,21.0,27,0,0
+MN,31.0,9,0,2
+MN,61.0,18,0,1
+MN,75.0,27,0,0
+MN,137.0,24,0,0
+MN,007,4,0,0
+MN,021,17,0,0
+MN,031,6,0,0
+MN,061,5,0,0
+MN,075,9,0,0
+MN,137,17,0,0
+MN,Aitkin,74,2,1
+MN,Anoka,37,1,1
+MN,Becker,79,0,44
+MN,Beltrami,91,2,12
+MN,Benton,49,0,0
+MN,Blue Earth,4,1,0
+MN,Brown,3,0,0
+MN,Carlton,81,0,1
+MN,Carver,2,0,0
+MN,Cass,117,0,1
+MN,Chisago,19,0,0
+MN,Clay,1,0,1
+MN,Clearwater,42,1,11
+MN,Cook,4,0,0
+MN,Crow Wing,101,0,0
+MN,Dakota,3,0,0
+MN,Douglas,8,0,7
+MN,Fillmore,1,0,0
+MN,Freeborn,1,0,1
+MN,Goodhue,6,0,0
+MN,Grant,1,0,1
+MN,Hennepin,7,0,2
+MN,Houston,13,0,0
+MN,Hubbard,40,0,0
+MN,Isanti,51,0,0
+MN,Itasca,129,1,3
+MN,Kanabec,55,0,0
+MN,Kandiyohi,2,0,1
+MN,Kittson,58,15,58
+MN,Koochiching,40,0,0
+MN,Lac qui Parl,1,1,1
+MN,Lac qui Parle,1,0,1
+MN,Lake,26,0,0
+MN,Lake of the Woods,56,3,4
+MN,Le Sueur,1,0,0
+MN,Mahnomen,72,4,46
+MN,Marshall,64,14,64
+MN,Martin,1,0,1
+MN,Mille Lacs,33,1,3
+MN,Morrison,102,5,2
+MN,Murray,1,1,1
+MN,Nicollet,4,0,0
+MN,Norman,1,1,1
+MN,Olmsted,1,0,0
+MN,Otter Tail,9,1,7
+MN,Ottertail,14,0,8
+MN,Pennington,12,4,11
+MN,Pine,132,1,0
+MN,Polk,8,4,7
+MN,Pope,3,0,2
+MN,Red Lake,1,0,0
+MN,Renville,2,1,1
+MN,Rice,2,1,1
+MN,Roseau,78,8,64
+MN,Scott,2,0,1
+MN,Sherburne,67,0,0
+MN,Sibley,1,0,0
+MN,St. Louis,312,1,1
+MN,Stearns,5,1,0
+MN,Stevens,1,0,1
+MN,Todd,34,1,4
+MN,Unknown,1207,21,101
+MN,Wabasha,5,0,0
+MN,Wadena,42,0,2
+MN,Waseca,1,0,0
+MN,Washington,4,0,1
+MN,Wilkin,1,0,1
+MN,Winona,14,0,0
+MN,Wright,2,0,0
+MO,9.0,4,0,4
+MO,23.0,3,0,3
+MO,35.0,8,1,8
+MO,43.0,10,1,10
+MO,55.0,7,0,7
+MO,65.0,13,4,11
+MO,67.0,8,0,7
+MO,91.0,3,0,3
+MO,93.0,8,1,7
+MO,105.0,6,0,6
+MO,123.0,2,1,2
+MO,149.0,5,1,4
+MO,153.0,9,2,8
+MO,161.0,8,0,8
+MO,169.0,3,1,3
+MO,179.0,11,2,11
+MO,181.0,7,1,7
+MO,203.0,14,1,14
+MO,209.0,1,1,1
+MO,213.0,7,1,6
+MO,215.0,2,0,2
+MO,221.0,11,1,10
+MO,223.0,4,0,4
+MO,009,3,0,1
+MO,033,1,1,1
+MO,035,5,0,5
+MO,043,4,0,3
+MO,055,2,1,2
+MO,065,9,1,8
+MO,067,4,1,4
+MO,091,3,0,3
+MO,093,4,0,4
+MO,105,3,0,2
+MO,149,7,1,5
+MO,153,6,1,5
+MO,161,6,0,4
+MO,169,1,0,1
+MO,179,6,1,6
+MO,181,2,0,2
+MO,203,11,0,9
+MO,213,7,1,6
+MO,215,4,0,4
+MO,221,4,0,4
+MO,223,5,1,3
+MO,Adair,2,0,0
+MO,BARRY,1,1,1
+MO,BENTON,2,2,2
+MO,Barry,1,0,1
+MO,Bates,2,1,2
+MO,Benton,20,3,10
+MO,Buchanan,1,0,1
+MO,Butler,1,0,0
+MO,CALDWELL,1,1,1
+MO,CAMDEN,5,5,5
+MO,Callaway,3,0,0
+MO,Camden,18,1,6
+MO,Cape Girardeau,1,0,0
+MO,Carter,1,0,0
+MO,Cedar,4,0,4
+MO,Christian,7,0,1
+MO,Clinton,1,0,0
+MO,Crawford,13,0,4
+MO,DALLAS,1,1,1
+MO,DENT,1,1,1
+MO,Dade,1,0,0
+MO,Dallas,11,2,6
+MO,Dallas & Camden,1,1,1
+MO,Dent,21,0,7
+MO,Douglas,8,0,3
+MO,Franklin,21,0,5
+MO,Gasconade,4,0,2
+MO,Greene,18,1,3
+MO,HENRY,7,7,7
+MO,HOWELL,1,1,1
+MO,Harrison,5,0,1
+MO,Henry,33,6,22
+MO,Hickory,5,0,2
+MO,Holt,1,0,0
+MO,Howell,11,1,5
+MO,Iron,3,0,3
+MO,Jackson,1,0,0
+MO,Jasper,6,0,1
+MO,Jefferson,30,0,7
+MO,Johnson,16,1,8
+MO,LACLEDE,1,1,1
+MO,Laclede,10,2,5
+MO,Lafayette,3,0,2
+MO,Lawrence,7,0,3
+MO,Lincoln,1,0,0
+MO,Linn,3,0,0
+MO,Macon,3,0,0
+MO,Madison,15,0,1
+MO,Maries,8,0,2
+MO,McDonald,1,0,0
+MO,Mercer,8,3,1
+MO,Miller,8,0,2
+MO,Monroe,1,0,0
+MO,Montgomery,1,0,0
+MO,Morgan,19,0,2
+MO,Newton,20,0,4
+MO,Nodaway,1,0,0
+MO,Oregon,12,0,3
+MO,Osage,3,0,1
+MO,Ozark,4,1,2
+MO,POLK,1,0,1
+MO,Perry,3,1,1
+MO,Phelps,7,0,2
+MO,Pike,2,0,0
+MO,Polk,1,0,0
+MO,Pulaski,17,0,5
+MO,Putnam,1,0,0
+MO,REYNOLDS,1,1,1
+MO,Randolph,5,0,0
+MO,Ray,2,1,1
+MO,Reynolds,6,0,2
+MO,Ripley,4,0,0
+MO,SHANNON,3,3,3
+MO,ST. CLAIR,2,2,2
+MO,Saint Charles,3,0,0
+MO,Saint Clair,17,1,7
+MO,Saint Louis,1,0,0
+MO,Saline,3,0,1
+MO,Schuyler,3,1,2
+MO,Scotland,1,0,1
+MO,Shannon,17,1,11
+MO,St. Clair,1,1,1
+MO,Stone,2,0,1
+MO,Sullivan,1,0,0
+MO,Taney,3,0,2
+MO,Texas,7,0,3
+MO,Unknown,220,15,76
+MO,VERNON,1,1,1
+MO,Vernon,9,1,4
+MO,Warren,1,0,0
+MO,Washington,30,0,13
+MO,Wayne,2,0,2
+MO,Webster,7,0,4
+MO,Worth,3,2,1
+MO,Wright,6,0,2
+MS,1.0,1,0,1
+MS,5.0,3,1,3
+MS,9.0,14,1,11
+MS,19.0,1,0,0
+MS,35.0,13,4,9
+MS,37.0,5,0,4
+MS,39.0,3,0,2
+MS,41.0,2,0,0
+MS,47.0,18,0,15
+MS,59.0,5,0,4
+MS,61.0,2,0,2
+MS,67.0,1,0,1
+MS,71.0,1,0,1
+MS,93.0,2,0,2
+MS,109.0,1,0,1
+MS,111.0,28,7,26
+MS,115.0,1,0,1
+MS,123.0,4,0,4
+MS,129.0,3,0,3
+MS,131.0,12,1,10
+MS,153.0,3,1,3
+MS,157.0,1,1,1
+MS,001,1,0,1
+MS,005,1,1,1
+MS,009,2,0,1
+MS,017,1,0,1
+MS,019,1,0,0
+MS,035,4,0,1
+MS,039,1,0,1
+MS,041,2,0,0
+MS,047,5,0,4
+MS,061,1,0,1
+MS,067,1,1,1
+MS,111,9,2,7
+MS,131,2,0,1
+MS,159,1,0,0
+MS,35,1,0,1
+MS,ADAMS,2,0,0
+MS,ALCORN,10,1,1
+MS,AMITE,24,0,1
+MS,ATTALA,19,0,0
+MS,Adams,2,0,2
+MS,Alcorn,19,0,4
+MS,Amite,56,1,15
+MS,Attala,38,0,4
+MS,BENTON,19,0,1
+MS,Benton,2,0,0
+MS,CALHOUN,10,0,0
+MS,CARROLL,10,1,1
+MS,CHICKASAW,10,0,0
+MS,CHOCTAW,9,0,1
+MS,CLAIBORNE,5,0,0
+MS,CLARKE,13,0,0
+MS,CLAY,6,0,0
+MS,COPIAH,19,0,1
+MS,COVINGTON,11,0,0
+MS,Calhoun,10,0,0
+MS,Carroll,15,0,4
+MS,Chickasaw,8,0,0
+MS,Choctaw,15,0,2
+MS,Claiborne,8,0,1
+MS,Clarke,27,0,1
+MS,Clay,13,0,0
+MS,Copiah,51,1,4
+MS,Covington,43,0,0
+MS,DESOTO,3,0,1
+MS,FORREST,12,0,0
+MS,FRANKLIN,6,0,1
+MS,Forrest,25,0,4
+MS,Franklin,22,0,7
+MS,GEORGE,26,0,0
+MS,GREENE,11,0,1
+MS,GRENADA,4,0,0
+MS,George,32,0,10
+MS,Greene,11,0,4
+MS,Grenada,11,0,1
+MS,HANCOCK,30,1,4
+MS,HARRISON,40,1,11
+MS,HINDS,11,0,0
+MS,HOLMES,23,0,0
+MS,Hancock,58,1,15
+MS,Harrison,60,3,31
+MS,Harrison ,1,1,1
+MS,Hinds,11,0,3
+MS,Holmes,53,0,2
+MS,ITAWAMBA,15,0,0
+MS,Itawamba,24,0,1
+MS,JACKSON,41,1,7
+MS,JASPER,19,0,0
+MS,JEFFERSON,10,0,0
+MS,JEFFERSON DAVIS,43,1,1
+MS,JONES,10,0,1
+MS,Jackson,38,1,18
+MS,Jasper,34,0,1
+MS,Jefferson,12,0,3
+MS,Jefferson Davis,82,0,8
+MS,Jones,35,0,1
+MS,KEMPER,12,0,0
+MS,Kemper,16,0,0
+MS,LAFAYETTE,11,0,0
+MS,LAMAR,36,0,1
+MS,LAUDERDALE,9,0,0
+MS,LAWRENCE,16,0,1
+MS,LEAKE,38,1,1
+MS,LEE,4,0,0
+MS,LEFLORE,1,0,0
+MS,LINCOLN,37,0,0
+MS,LOWNDES,7,0,0
+MS,Lafayette,2,0,0
+MS,Lamar,52,4,8
+MS,Lauderdale,21,0,3
+MS,Lawrence,44,0,5
+MS,Leake,43,2,1
+MS,Lee,9,0,1
+MS,Leflore,1,0,0
+MS,Lincoln,71,0,10
+MS,Lowndes,11,0,0
+MS,MADISON,14,0,0
+MS,MARION,40,0,1
+MS,MARSHALL,27,2,5
+MS,MONROE,13,1,0
+MS,MONTGOMERY,9,2,0
+MS,Madison,29,1,0
+MS,Marion,77,0,12
+MS,Marshall,2,0,0
+MS,Monroe,12,0,2
+MS,Montgomery,7,0,0
+MS,NESHOBA,15,1,0
+MS,NEWTON,15,0,0
+MS,NOXUBEE,9,0,0
+MS,Neshoba,21,0,0
+MS,Newton,21,0,1
+MS,Noxubee,4,0,0
+MS,OKTIBBEHA,5,0,0
+MS,Oktibbeha,4,0,0
+MS,PANOLA,6,0,2
+MS,PEARL RIVER,77,0,7
+MS,PERRY,19,0,0
+MS,PIKE,11,1,1
+MS,PONTOTOC,6,0,0
+MS,PRENTISS,15,0,2
+MS,Panola,8,0,0
+MS,Pearl River,72,4,29
+MS,Perry,14,0,5
+MS,Perry County,1,1,1
+MS,Pike,46,0,18
+MS,Pontotoc,13,1,0
+MS,Prentiss,25,0,1
+MS,QUITMAN,2,0,0
+MS,Quitman,3,0,0
+MS,RANKIN,9,0,0
+MS,Rankin,27,0,1
+MS,SCOTT,8,0,0
+MS,SIMPSON,14,0,0
+MS,SMITH,10,0,0
+MS,STONE,26,0,0
+MS,Scott,15,0,0
+MS,Simpson,30,0,0
+MS,Smith,19,1,1
+MS,Stone,26,1,12
+MS,TALLAHATCHIE,8,0,0
+MS,TATE,2,0,0
+MS,TIPPAH,20,1,1
+MS,TISHOMINGO,24,0,0
+MS,Tallahatchie,16,0,1
+MS,Tate,3,0,0
+MS,Tippah,13,0,0
+MS,Tishomingo,22,1,5
+MS,UNION,9,0,0
+MS,Union,1,0,0
+MS,Unknown,2370,71,728
+MS,WALTHALL,22,0,1
+MS,WAYNE,31,0,1
+MS,WEBSTER,22,0,0
+MS,WILKINSON,5,0,1
+MS,WINSTON,21,0,0
+MS,Walthall,37,0,5
+MS,Warren,4,0,0
+MS,Washington,1,0,0
+MS,Wayne,38,1,1
+MS,Webster,24,0,0
+MS,Wilkinson,18,1,8
+MS,Winston,26,1,1
+MS,YALOBUSHA,8,0,0
+MS,YAZOO,2,0,0
+MS,Yalobusha,10,0,0
+MS,Yazoo,9,0,0
+MT,1.0,25,1,9
+MT,7.0,1,0,0
+MT,9.0,8,2,6
+MT,11.0,4,0,4
+MT,13.0,7,1,4
+MT,17.0,1,0,1
+MT,23.0,5,0,1
+MT,27.0,1,0,1
+MT,29.0,60,1,17
+MT,31.0,23,0,7
+MT,39.0,18,0,11
+MT,43.0,19,1,8
+MT,45.0,4,0,4
+MT,47.0,5,0,1
+MT,49.0,18,2,12
+MT,53.0,130,0,3
+MT,57.0,8,1,5
+MT,59.0,14,0,10
+MT,61.0,50,1,22
+MT,63.0,61,2,15
+MT,67.0,8,0,4
+MT,75.0,25,3,18
+MT,77.0,20,1,10
+MT,81.0,74,2,48
+MT,83.0,1,0,1
+MT,87.0,5,0,3
+MT,89.0,33,0,8
+MT,93.0,4,1,1
+MT,95.0,1,0,1
+MT,97.0,3,0,2
+MT,99.0,1,0,1
+MT,107.0,3,0,3
+MT,001,18,1,7
+MT,007,2,0,1
+MT,009,5,0,3
+MT,011,2,0,2
+MT,013,4,0,4
+MT,023,3,0,0
+MT,029,34,2,13
+MT,031,26,0,9
+MT,039,17,1,9
+MT,043,17,0,8
+MT,045,2,0,2
+MT,047,4,0,2
+MT,049,31,3,16
+MT,053,74,0,10
+MT,057,5,1,3
+MT,059,6,0,5
+MT,061,42,1,12
+MT,063,56,1,24
+MT,067,8,1,3
+MT,073,1,1,1
+MT,075,8,1,3
+MT,077,12,0,5
+MT,081,51,0,25
+MT,087,2,0,2
+MT,089,36,0,10
+MT,093,9,0,3
+MT,095,1,0,0
+MT,097,2,0,2
+MT,39,1,0,1
+MT,Beaverhead,5,0,2
+MT,Big Horn,6,3,6
+MT,Bighorn,1,1,1
+MT,Blaine,14,2,13
+MT,Broadwater,1,1,1
+MT,Carbon,7,0,5
+MT,Carter,20,1,20
+MT,Cascade,11,2,10
+MT,Chouteau,5,5,5
+MT,Custer,21,7,21
+MT,Deer Lodge,8,0,4
+MT,Fallon,2,2,2
+MT,Fergus,7,2,7
+MT,Flathead,178,1,16
+MT,Gallatin,2,0,0
+MT,Garfield,28,6,26
+MT,Golden Valley,1,1,1
+MT,Granite,21,1,8
+MT,Jefferson,29,0,14
+MT,Lake,19,0,4
+MT,Lewis & Clark,50,2,21
+MT,Lewis and Clark,43,1,20
+MT,Liberty,1,0,1
+MT,Lincoln,55,0,2
+MT,Madison,5,1,3
+MT,McCone,4,3,4
+MT,Meagher,5,2,5
+MT,Mineral,7,0,0
+MT,Missoula,199,3,29
+MT,Mussellshell,1,1,1
+MT,Musselshell,3,0,3
+MT,Park,1,0,1
+MT,Petroleum,17,5,17
+MT,Phillips,13,3,12
+MT,Powder River,34,8,32
+MT,Powell,32,0,17
+MT,Prairie,8,2,8
+MT,Ravalli,11,0,4
+MT,Rosebud,24,8,23
+MT,Sanders,57,1,1
+MT,Silver Bow,1,0,0
+MT,Stillwater,3,2,3
+MT,Sweet Grass,4,0,3
+MT,Treasure,4,3,4
+MT,Unknown,1472,54,512
+MT,Valley,1,0,1
+MT,Wheatland,1,0,1
+MT,Wibaux,2,0,2
+MT,Yellowstone,24,10,21
+NC,11.0,2,0,0
+NC,21.0,4,0,2
+NC,23.0,9,1,5
+NC,27.0,4,1,2
+NC,31.0,5,0,3
+NC,39.0,18,0,8
+NC,43.0,6,0,4
+NC,49.0,3,0,0
+NC,75.0,18,0,2
+NC,87.0,2,0,0
+NC,99.0,8,0,2
+NC,103.0,2,1,1
+NC,111.0,10,0,6
+NC,113.0,17,0,8
+NC,115.0,4,0,2
+NC,123.0,9,0,1
+NC,151.0,1,0,1
+NC,173.0,2,0,2
+NC,175.0,6,0,3
+NC,199.0,5,0,2
+NC,011,1,0,0
+NC,021,3,0,1
+NC,023,9,2,5
+NC,031,5,2,2
+NC,039,6,0,4
+NC,043,1,0,0
+NC,049,7,1,3
+NC,075,3,0,1
+NC,089,1,0,1
+NC,099,1,0,1
+NC,111,8,2,5
+NC,113,2,0,0
+NC,115,1,0,0
+NC,123,8,0,0
+NC,151,2,0,0
+NC,173,1,0,0
+NC,175,3,1,0
+NC,189,1,0,1
+NC,199,5,0,1
+NC,49,1,0,0
+NC,Alamance,23,0,0
+NC,Alexander,76,0,0
+NC,Alleghany,22,0,0
+NC,Anson,160,0,0
+NC,Ashe,53,0,0
+NC,Avery,40,0,0
+NC,Beaufort,59,0,0
+NC,Bertie,61,0,2
+NC,Bladen,163,1,1
+NC,Brunswick,132,1,2
+NC,Buncombe,124,0,0
+NC,Burke,186,0,0
+NC,Cabarrus,72,0,0
+NC,Caldwell,244,0,0
+NC,Camden,34,0,1
+NC,Carteret,44,0,3
+NC,Caswell,30,0,0
+NC,Catawba,159,0,0
+NC,Chatham,146,0,0
+NC,Cherokee,102,0,0
+NC,Chowan,14,0,0
+NC,Clay,31,0,0
+NC,Cleveland,164,0,0
+NC,Columbus,157,2,0
+NC,Craven,69,0,0
+NC,Cumberland,112,3,2
+NC,Currituck,71,2,4
+NC,Dare,46,0,2
+NC,Dare Bomb Range,45,0,6
+NC,Davidson,79,0,0
+NC,Davie,67,0,0
+NC,Duplin,63,1,0
+NC,Durham,42,0,0
+NC,Edgecombe,40,0,0
+NC,Federal Land,2,0,0
+NC,Forsyth,89,0,0
+NC,Franklin,72,0,0
+NC,Gaston,111,0,0
+NC,Gates,58,0,1
+NC,Graham,12,0,0
+NC,Granville,57,1,1
+NC,Greene,46,0,0
+NC,Guilford,95,0,0
+NC,Halifax,52,0,0
+NC,Harnett,308,1,0
+NC,Haywood,75,0,0
+NC,Henderson,94,0,0
+NC,Hertford,57,2,0
+NC,Hoke,111,1,0
+NC,Hyde,18,1,0
+NC,Iredell,158,0,0
+NC,Jackson,69,0,0
+NC,Johnston,67,0,0
+NC,Jones,39,0,0
+NC,Lee,169,0,0
+NC,Lenoir,36,0,0
+NC,Lincoln,108,0,0
+NC,Macon,78,4,0
+NC,Madison,124,0,0
+NC,Martin,41,0,1
+NC,McDowell,92,0,0
+NC,Mecklenburg,97,0,0
+NC,Mitchell,48,0,0
+NC,Montgomery,113,0,0
+NC,Moore,299,0,0
+NC,Nash,82,0,0
+NC,New Hanover,30,0,1
+NC,Northampton,53,0,0
+NC,Onslow,163,0,0
+NC,Orange,63,1,0
+NC,Pamlico,23,3,1
+NC,Pasquotank,27,0,0
+NC,Pender,102,0,0
+NC,Perquimans,7,0,0
+NC,Person,57,0,0
+NC,Pitt,42,0,0
+NC,Polk,46,1,0
+NC,Randolph,125,0,0
+NC,Richmond,334,1,0
+NC,Robeson,359,5,1
+NC,Rockingham,73,0,0
+NC,Rowan,118,0,0
+NC,Rutherford,123,2,0
+NC,Sampson,121,1,0
+NC,Scotland,258,6,4
+NC,Scotland County,1,1,1
+NC,Stanly,127,0,0
+NC,Stokes,118,0,0
+NC,Surry,104,1,1
+NC,Swain,37,0,0
+NC,Transylvania,48,0,0
+NC,Tyrrell,14,0,0
+NC,Union,142,0,0
+NC,Unknown,182,5,25
+NC,Vance,39,0,0
+NC,Wake,21,0,0
+NC,Warren,77,0,0
+NC,Washington,37,0,0
+NC,Watauga,39,1,0
+NC,Wayne,123,1,0
+NC,Wilkes,108,0,0
+NC,Wilson,67,0,0
+NC,Yadkin,73,0,0
+NC,Yancey,37,0,0
+ND,7.0,6,0,5
+ND,53.0,9,0,7
+ND,73.0,2,0,1
+ND,87.0,3,0,2
+ND,007,3,1,2
+ND,053,5,1,4
+ND,077,1,0,1
+ND,087,2,1,2
+ND,53,1,0,0
+ND,Adams,6,0,2
+ND,BURLEIGH,1,1,1
+ND,Barnes,9,0,4
+ND,Benson,1,0,1
+ND,Bottineau,1,1,1
+ND,Burke,1,0,1
+ND,Burleigh,2,1,2
+ND,Cass,1,0,1
+ND,Cavalier,4,1,4
+ND,Dickey,4,1,4
+ND,Divide,1,0,1
+ND,Eddy,1,0,1
+ND,Foster,4,0,3
+ND,GRANT,2,0,2
+ND,Goklen Valley,1,0,1
+ND,Golden Valley,5,0,5
+ND,Grand Forks,2,0,2
+ND,Grant,3,0,1
+ND,Griggs,2,0,2
+ND,Hettinger,3,0,3
+ND,Kidder,1,0,0
+ND,LaMoure,1,0,1
+ND,McHenry,1,0,0
+ND,McIntosh,4,0,3
+ND,McKenzie,9,0,3
+ND,Mchenry,1,0,1
+ND,Mcintosh,1,0,0
+ND,Mclean,1,0,0
+ND,Mercer,5,0,3
+ND,Montrail,1,0,1
+ND,Morton,6,0,4
+ND,Mountrail,1,0,1
+ND,Nelson,1,0,0
+ND,Oliver,3,0,3
+ND,Ramsey,1,1,1
+ND,Ransom,4,1,4
+ND,Renville,1,0,0
+ND,Richland,3,0,3
+ND,Rolette,4,0,4
+ND,Sargent,1,0,1
+ND,Sheridan,1,1,1
+ND,Sioux,1,0,1
+ND,Slope,1,0,0
+ND,Stark,7,0,5
+ND,Stutsman,14,2,9
+ND,Traill,1,0,0
+ND,Unknown,1485,29,329
+ND,Walsh,1,1,1
+ND,Ward,7,1,5
+ND,Wells,1,0,1
+ND,burleigh,1,0,0
+ND,grant,1,0,0
+ND,mercer,1,1,1
+ND,pierce,1,0,0
+ND,ward,1,0,0
+NE,31.0,1,0,1
+NE,45.0,2,0,1
+NE,165.0,2,1,2
+NE,031,7,0,7
+NE,045,5,2,4
+NE,171,1,0,1
+NE,Cherry,1,0,1
+NE,Dawes,1,0,1
+NE,LINCOLN,1,1,1
+NE,Unknown,1342,58,790
+NH,3.0,1,0,0
+NH,7.0,1,0,0
+NH,003,2,0,0
+NH,009,1,0,0
+NH,Belknap,13,0,0
+NH,Carroll,10,0,0
+NH,Cheshire,17,0,0
+NH,Coos,20,0,0
+NH,Grafotn,1,0,0
+NH,Grafton,34,0,0
+NH,Hillsborough,24,0,0
+NH,Hillsboroughugh,1,0,0
+NH,Merrimack,22,0,0
+NH,Rockingham,19,0,0
+NH,Strafford,15,0,0
+NH,Sullivan,11,0,0
+NH,cheshire,4,0,0
+NJ,005,1,1,1
+NJ,Atlantic,219,1,0
+NJ,Bergen,4,0,0
+NJ,Burlington,116,0,1
+NJ,Burlington County,1,1,0
+NJ,Camden,165,1,0
+NJ,Cape May,23,0,0
+NJ,Cumberland,132,0,0
+NJ,Essex,8,0,0
+NJ,Gloucester,68,0,0
+NJ,Hudson,7,0,0
+NJ,Hunterdon,89,0,0
+NJ,Mercer,18,0,0
+NJ,Middlesex,121,0,0
+NJ,Monmouth,124,0,0
+NJ,Morris,125,0,0
+NJ,Ocean,326,1,0
+NJ,Passaic,40,0,0
+NJ,Salem,26,0,0
+NJ,Somerset,119,0,0
+NJ,Sussex,137,0,0
+NJ,Union,9,0,0
+NJ,Unknown,22,0,1
+NJ,Warren,88,1,0
+NM,1.0,12,0,6
+NM,3.0,123,5,91
+NM,6.0,32,0,10
+NM,15.0,2,0,2
+NM,17.0,26,2,25
+NM,21.0,1,1,1
+NM,27.0,12,0,10
+NM,28.0,3,0,1
+NM,31.0,6,0,0
+NM,35.0,24,1,19
+NM,39.0,77,2,31
+NM,43.0,46,0,19
+NM,47.0,13,1,9
+NM,49.0,10,0,7
+NM,51.0,10,1,10
+NM,53.0,23,0,16
+NM,55.0,16,0,4
+NM,57.0,10,0,7
+NM,59.0,2,0,2
+NM,001,7,0,1
+NM,003,58,0,22
+NM,006,15,0,1
+NM,015,2,0,2
+NM,017,19,0,10
+NM,027,6,0,1
+NM,028,1,0,0
+NM,031,4,0,1
+NM,033,1,0,0
+NM,035,13,0,9
+NM,039,55,0,7
+NM,043,29,2,7
+NM,045,1,0,0
+NM,047,12,2,6
+NM,049,5,0,0
+NM,051,5,0,4
+NM,053,5,1,3
+NM,055,22,0,2
+NM,057,5,0,2
+NM,059,1,0,1
+NM,3,2,1,2
+NM,39,9,0,2
+NM,51,2,0,2
+NM,55,4,0,3
+NM,Bernalillo,21,0,17
+NM,Catron,27,2,15
+NM,Chaves,119,15,117
+NM,Cibola,18,1,4
+NM,Colfax,53,3,44
+NM,Curry,13,5,13
+NM,De Baca,20,6,20
+NM,Dona Ana,16,3,15
+NM,EDDY,1,1,1
+NM,East Taos,1,0,0
+NM,Eddy,158,9,154
+NM,Grant,58,6,47
+NM,Guadalupe,14,4,13
+NM,Harding,3,2,3
+NM,Hidalgo,9,5,8
+NM,Lea,83,22,82
+NM,Lincoln,50,5,38
+NM,Luna,15,0,11
+NM,McKinley,5,0,1
+NM,Mora,52,7,41
+NM,Otero,33,4,28
+NM,Quay,24,13,24
+NM,ROOSEVELT,1,1,1
+NM,Rio Arriba,83,0,22
+NM,Roosevelt,69,20,69
+NM,Rossevelt,1,1,1
+NM,San Juan,145,0,21
+NM,San Miguel,46,4,36
+NM,Sandoval,44,1,11
+NM,Santa Fe,62,2,35
+NM,Sierra,6,0,3
+NM,Socorro,41,5,30
+NM,Taos,28,1,8
+NM,Torrance,20,3,15
+NM,Union,15,6,15
+NM,Unknown,756,23,230
+NM,Valencia,100,1,23
+NM,West Taos,1,0,1
+NV,3.0,35,0,27
+NV,5.0,5,0,3
+NV,7.0,5,2,2
+NV,11.0,1,1,1
+NV,15.0,1,0,1
+NV,19.0,5,0,0
+NV,21.0,4,0,4
+NV,23.0,7,0,4
+NV,31.0,16,1,8
+NV,33.0,12,2,8
+NV,510.0,3,0,1
+NV,003,17,0,5
+NV,005,8,0,4
+NV,007,9,3,5
+NV,015,1,0,0
+NV,019,2,0,0
+NV,021,3,1,0
+NV,023,4,1,2
+NV,031,6,1,2
+NV,033,12,2,4
+NV,15,1,0,1
+NV,33,2,0,2
+NV,Carson,1,0,1
+NV,Carson City,12,1,5
+NV,Churchill,19,4,17
+NV,Clark,164,8,116
+NV,DOUGLAS,1,0,1
+NV,Douglas,32,4,20
+NV,ELKO,2,0,1
+NV,Elko,199,40,191
+NV,Esmeralda,2,0,2
+NV,Eureka,43,10,38
+NV,Humboldt,102,11,93
+NV,LYON,1,1,0
+NV,Lander,42,8,38
+NV,Lincoln,255,16,233
+NV,Lyon,23,2,16
+NV,Mineral,2,0,2
+NV,Nye,24,7,21
+NV,Pershing,48,8,43
+NV,STOREY,5,1,3
+NV,Storey,4,0,3
+NV,Unknown,78,3,48
+NV,WASHOE,4,0,2
+NV,Washoe,96,11,80
+NV,White Pine,139,8,123
+NY,ALBANY,227,0,0
+NY,ALLEGANY,86,0,0
+NY,Albany,23,0,0
+NY,Allegany,3,0,0
+NY,BRONX,236,0,0
+NY,BROOME,176,0,0
+NY,Bronx,25,0,0
+NY,Broome,9,0,0
+NY,CATTARAUGUS,153,0,0
+NY,CAYUGA,97,0,0
+NY,CHAUTAUQUA,139,0,0
+NY,CHEMUNG,92,0,0
+NY,CHENANGO,62,0,0
+NY,CLINTON,187,0,0
+NY,COLUMBIA,110,0,0
+NY,CORTLAND,57,0,0
+NY,Cattaraugus,7,0,0
+NY,Cayuga,2,0,0
+NY,Chautauqua,6,0,0
+NY,Chemung,10,0,0
+NY,Chenango,1,0,0
+NY,Clinton,5,0,0
+NY,Columbia,6,0,0
+NY,DELAWARE,79,0,0
+NY,DUTCHESS,253,0,0
+NY,Delaware,8,0,0
+NY,Dutchess,9,0,0
+NY,ERIE,421,0,0
+NY,ESSEX,88,0,0
+NY,Erie,15,0,0
+NY,Essex,7,1,0
+NY,FRANKLIN,105,0,0
+NY,FULTON,103,0,0
+NY,Franklin,8,0,0
+NY,Fulton,6,0,0
+NY,GENESEE,85,0,0
+NY,GREENE,109,0,0
+NY,Greene,9,0,0
+NY,HAMILTON,28,0,0
+NY,HERKIMER,62,0,0
+NY,Hamilton,4,0,0
+NY,Herkimer,3,0,0
+NY,JEFFERSON,229,0,0
+NY,Jefferson,12,0,0
+NY,KINGS,299,0,0
+NY,Kings,23,0,0
+NY,LEWIS,53,0,0
+NY,LIVINGSTON,131,0,0
+NY,Lewis,1,0,0
+NY,Livingston,2,0,0
+NY,MADISON,56,0,0
+NY,MONROE,563,0,0
+NY,MONTGOMERY,53,0,0
+NY,Madison,4,0,0
+NY,Monroe,41,0,0
+NY,Montgomery,4,0,0
+NY,NASSAU,433,0,0
+NY,NEW YORK,132,0,0
+NY,NIAGARA,199,0,0
+NY,Nassau,13,0,0
+NY,New York,24,0,0
+NY,Niagara,4,0,0
+NY,ONEIDA,148,0,0
+NY,ONONDAGA,194,0,0
+NY,ONTARIO,138,0,0
+NY,ORANGE,523,0,0
+NY,ORLEANS,47,0,0
+NY,OSWEGO,156,0,0
+NY,OTSEGO,92,0,0
+NY,Oneida,6,0,0
+NY,Onondaga,14,0,0
+NY,Ontario,5,0,0
+NY,Orange,22,0,0
+NY,Orleans,3,0,0
+NY,Oswego,11,0,0
+NY,Otsego,8,0,0
+NY,PUTNAM,131,0,0
+NY,Putnam,8,0,0
+NY,QUEENS,403,0,0
+NY,Queens,57,0,0
+NY,RENSSELAER,294,0,0
+NY,RICHMOND,343,0,0
+NY,ROCKLAND,420,1,0
+NY,Rensselaer,13,0,0
+NY,Richmond,27,0,0
+NY,Rockland,13,0,0
+NY,SARATOGA,210,0,0
+NY,SCHENECTADY,111,0,0
+NY,SCHOHARIE,59,0,0
+NY,SCHUYLER,41,0,0
+NY,SENECA,51,0,0
+NY,ST LAWRENCE,258,0,0
+NY,STEUBEN,190,0,0
+NY,SUFFOLK,1111,0,0
+NY,SULLIVAN,165,0,0
+NY,Saratoga,14,0,0
+NY,Schenectady,3,0,0
+NY,Schoharie,6,0,0
+NY,Seneca,2,0,0
+NY,St Lawrence,23,0,0
+NY,Steuben,7,0,0
+NY,Suffolk,43,0,0
+NY,Sullivan,10,1,0
+NY,TIOGA,51,0,0
+NY,TOMPKINS,53,0,0
+NY,Tioga,3,0,0
+NY,Tompkins,3,0,0
+NY,ULSTER,236,2,0
+NY,Ulster,17,0,0
+NY,Unknown,63,1,0
+NY,WARREN,129,1,0
+NY,WASHINGTON,126,0,0
+NY,WAYNE,143,0,0
+NY,WESTCHESTER,308,0,0
+NY,WYOMING,51,0,0
+NY,Warren,11,0,0
+NY,Washington,4,0,0
+NY,Wayne,9,0,0
+NY,Westchester,34,0,0
+NY,Wyoming,7,0,0
+NY,YATES,29,0,0
+NY,Yates,3,0,0
+OH,9.0,4,0,0
+OH,35.0,1,0,0
+OH,53.0,1,0,0
+OH,73.0,13,0,0
+OH,87.0,31,1,3
+OH,97.0,1,0,0
+OH,145.0,5,0,0
+OH,009,3,0,0
+OH,053,4,0,0
+OH,073,8,0,0
+OH,079,1,0,0
+OH,087,22,0,1
+OH,127,1,0,0
+OH,145,2,0,1
+OH,87,3,0,0
+OH,ADAMS,14,0,0
+OH,ATHENS,9,0,0
+OH,Adams,3,0,0
+OH,Ashland,1,0,0
+OH,BELM,1,0,0
+OH,BELMONT,8,0,0
+OH,Belmont,3,0,0
+OH,CARROLL,13,0,0
+OH,COLUMBIANA,3,0,0
+OH,COSHOCTON,8,1,0
+OH,Carroll,1,0,0
+OH,Columbiana,4,0,0
+OH,Coshocton,3,0,0
+OH,FAIRFIELD,2,0,0
+OH,FULTON,4,0,0
+OH,Fulton,2,0,0
+OH,GALL,2,0,0
+OH,GALLIA,15,0,0
+OH,GUER,1,0,0
+OH,GUERNSEY,18,0,0
+OH,Gallia,20,0,0
+OH,Gallia County,1,1,0
+OH,Guernsey,2,0,0
+OH,HARRISON,1,0,0
+OH,HIGHLAND,2,0,0
+OH,HOCKING,8,0,0
+OH,HOLM,1,0,0
+OH,HOLMES,4,0,0
+OH,Harrison,1,0,0
+OH,Holmes,1,0,0
+OH,JACKSON,17,0,0
+OH,JEFF,1,0,0
+OH,JEFFERSON,11,0,0
+OH,Jackson,16,1,1
+OH,Jefferson,1,0,0
+OH,KNOX,7,0,0
+OH,LAWR,1,0,0
+OH,LAWRENCE,17,1,0
+OH,LICKING,2,0,0
+OH,LUCAS,2,0,0
+OH,Lawrence,22,2,1
+OH,MEIGS,10,0,0
+OH,MONR,1,0,0
+OH,MONROE,6,0,0
+OH,MORGAN,3,0,0
+OH,MUSK,1,0,0
+OH,MUSKINGUM,20,0,0
+OH,Meigs,1,0,0
+OH,NOBLE,3,0,0
+OH,Noble,1,0,0
+OH,PERRY,11,0,0
+OH,PIKE,31,1,0
+OH,Pike,14,0,0
+OH,RICHLAND,2,0,0
+OH,ROSS,17,0,0
+OH,Richland,1,0,0
+OH,SCIOTO,27,0,0
+OH,Scioto,15,1,0
+OH,TUSC,1,0,0
+OH,TUSCARAWAS,5,0,0
+OH,Tuscarawas,2,0,0
+OH,Unknown,8,0,1
+OH,VINTON,10,0,0
+OH,Vinton,2,0,0
+OH,WASHINGTON,3,0,0
+OH,Washington,2,0,0
+OK,79.0,15,5,15
+OK,89.0,14,1,14
+OK,129.0,12,3,12
+OK,005,1,1,1
+OK,079,11,0,10
+OK,089,5,0,4
+OK,095,1,1,1
+OK,1,39,0,34
+OK,11,42,1,36
+OK,119,1,1,1
+OK,12,1,0,1
+OK,129,5,2,5
+OK,21,9,0,8
+OK,3,15,2,15
+OK,31,12,1,10
+OK,39,23,2,19
+OK,40,29,1,20
+OK,45,95,2,38
+OK,49,4,1,4
+OK,61,17,5,17
+OK,64,73,0,62
+OK,68,17,1,12
+OK,ADAIR,1,1,1
+OK,Adair,199,11,162
+OK,Atoka,61,14,61
+OK,BECKHAM,1,1,1
+OK,Bryan,1,1,1
+OK,CREEK,3,3,3
+OK,Carter,1,1,1
+OK,Cherokee,225,18,202
+OK,Choctaw,13,1,10
+OK,Comanche,1,0,1
+OK,Creek,2,1,2
+OK,Delaware,88,7,83
+OK,Garvin County,1,1,1
+OK,Grady,1,1,1
+OK,HUGHES,1,1,1
+OK,Harper County,1,1,1
+OK,Haskell,64,11,56
+OK,Haskell County,1,1,1
+OK,Hughes,2,2,2
+OK,Johnston,1,1,1
+OK,LINCOLN,1,1,1
+OK,Latimer,189,23,176
+OK,Le Flore,86,4,54
+OK,LeFlore,46,4,35
+OK,Leflore,1,1,1
+OK,Lincoln,2,2,2
+OK,Lincoln County,1,1,1
+OK,Lipscomb,1,1,1
+OK,MAYES,1,0,1
+OK,Marshall,3,2,3
+OK,Mayes,34,1,30
+OK,Mc Intosh ,2,2,2
+OK,McClain,1,0,1
+OK,McCurtain,354,4,128
+OK,McIntosh,2,2,2
+OK,McIntosh ,2,2,2
+OK,Murray,1,1,1
+OK,Muskogee,7,2,6
+OK,NOBLE,1,1,1
+OK,Nowata,2,1,2
+OK,OTTAWA,1,0,1
+OK,Okfuskee,3,3,3
+OK,Oklahoma,1,1,1
+OK,Okmulgee,2,2,2
+OK,Ottawa,8,0,8
+OK,POTTAWATOME,1,1,1
+OK,Payne,1,1,1
+OK,Pittsburg,138,35,137
+OK,Pottawatomie County,1,1,1
+OK,Pushmataha,335,11,267
+OK,Roger Mills,2,0,2
+OK,Rogers,1,1,1
+OK,STEPHENS,1,1,1
+OK,Seqouyah,1,1,1
+OK,Sequoyah,114,5,91
+OK,Stephens,4,4,4
+OK,Unknown,1861,262,1785
+OK,Wagoner,1,0,1
+OK,pittsburg,1,1,1
+OR,1.0,38,1,9
+OR,5.0,42,1,2
+OR,11.0,4,0,0
+OR,13.0,56,2,10
+OR,15.0,2,0,0
+OR,17.0,170,1,3
+OR,19.0,77,1,3
+OR,23.0,125,1,46
+OR,25.0,39,1,16
+OR,27.0,16,1,2
+OR,29.0,41,0,2
+OR,31.0,17,2,2
+OR,33.0,12,0,0
+OR,35.0,95,0,4
+OR,37.0,51,0,11
+OR,39.0,86,1,3
+OR,41.0,2,0,0
+OR,43.0,22,0,1
+OR,45.0,1,0,1
+OR,47.0,14,0,1
+OR,49.0,15,0,8
+OR,51.0,2,0,0
+OR,57.0,3,0,0
+OR,59.0,22,1,11
+OR,61.0,32,2,18
+OR,63.0,28,4,15
+OR,65.0,19,1,2
+OR,69.0,11,0,4
+OR,001,55,0,10
+OR,003,1,0,0
+OR,005,42,0,3
+OR,011,2,0,0
+OR,013,24,1,3
+OR,015,5,0,0
+OR,017,121,0,5
+OR,019,75,2,1
+OR,023,82,0,20
+OR,025,18,0,4
+OR,027,15,0,1
+OR,029,24,0,0
+OR,031,12,1,0
+OR,033,11,2,0
+OR,035,71,0,3
+OR,037,38,0,1
+OR,039,70,0,1
+OR,041,3,0,0
+OR,043,21,0,1
+OR,047,14,0,0
+OR,049,4,0,0
+OR,051,6,0,0
+OR,057,6,0,0
+OR,059,15,0,6
+OR,061,10,0,5
+OR,063,27,2,7
+OR,065,15,1,2
+OR,069,11,0,4
+OR,1,10,0,5
+OR,10,99,0,1
+OR,12,36,2,16
+OR,14,24,0,3
+OR,16,17,0,1
+OR,17,41,0,0
+OR,18,117,1,3
+OR,19,1,0,0
+OR,2,16,0,0
+OR,20,116,0,1
+OR,21,16,1,0
+OR,22,36,0,0
+OR,24,20,1,0
+OR,29,117,0,0
+OR,30,26,4,19
+OR,32,33,0,14
+OR,33,72,0,0
+OR,34,15,0,0
+OR,36,14,0,0
+OR,37,11,0,2
+OR,4,22,0,0
+OR,49,4,0,1
+OR,5,69,0,0
+OR,51,1,0,0
+OR,53,11,0,0
+OR,57,16,0,0
+OR,6,37,0,0
+OR,61,24,1,3
+OR,65,21,0,5
+OR,69,23,2,14
+OR,7,19,1,2
+OR,8,16,0,1
+OR,9,22,0,0
+OR,Baker,38,6,26
+OR,Benton,10,0,0
+OR,Clackamas,45,0,0
+OR,Clatsop,13,0,0
+OR,Columbia,13,0,0
+OR,Coos,49,0,8
+OR,Crook,85,3,40
+OR,Curry,20,1,2
+OR,Deschutes,149,2,28
+OR,Douglas,135,2,8
+OR,Grant,73,6,45
+OR,Harney,114,14,101
+OR,Hood River,11,0,0
+OR,Jackson,169,1,25
+OR,Jefferson,28,4,7
+OR,Josephine,134,2,13
+OR,Klamath,118,1,18
+OR,Lake,106,3,57
+OR,Lane,122,1,10
+OR,Lincoln,7,0,0
+OR,Linn,28,2,3
+OR,Malheur,90,22,89
+OR,Marion,20,0,1
+OR,Morrow,2,0,1
+OR,Multnomah,2,0,0
+OR,Multnomah County,1,1,1
+OR,Polk,7,0,0
+OR,Sherman,5,4,5
+OR,Tillamook,10,0,1
+OR,Umatilla,14,0,7
+OR,Union,13,0,7
+OR,Unknown,520,19,219
+OR,Wallowa,24,2,14
+OR,Wasco,26,6,13
+OR,Washington,1,0,0
+OR,Wheeler,34,6,26
+OR,Yamhill,16,0,2
+PA,47.0,1,0,0
+PA,53.0,5,0,0
+PA,83.0,3,0,0
+PA,123.0,7,0,1
+PA,047,1,0,0
+PA,053,1,0,1
+PA,083,2,0,0
+PA,123,2,0,0
+PA,ADAMS,5,0,0
+PA,ALLEGHENY,12,0,0
+PA,ARMSTRONG,20,0,0
+PA,Adams,4,0,0
+PA,Armstrong,1,0,0
+PA,BEAVER,2,0,0
+PA,BEDFORD,18,0,0
+PA,BERKS,36,0,0
+PA,BLAIR,7,0,0
+PA,BRADFORD,46,0,0
+PA,BUCKS,3,0,0
+PA,BUTLER,8,0,0
+PA,Bedford,5,0,0
+PA,Berks,22,0,0
+PA,Blair,5,0,0
+PA,Bucks,3,0,0
+PA,Butler,2,0,0
+PA,CAMBRIA,5,0,0
+PA,CAMERON,4,0,0
+PA,CARBON,35,0,0
+PA,CENTRE,30,0,0
+PA,CHESTER,13,0,0
+PA,CLARION,9,0,0
+PA,CLEARFIELD,78,0,0
+PA,CLINTON,4,0,0
+PA,COLUMBIA,3,0,0
+PA,CUMBERLAND,2,0,0
+PA,Cambria,16,1,0
+PA,Cameron,1,0,0
+PA,Carbon,25,1,0
+PA,Centre,15,1,0
+PA,Chester,8,0,0
+PA,Clearfield,42,0,0
+PA,Clinton,10,2,0
+PA,Columbia,6,0,0
+PA,Cumberland,4,0,0
+PA,DAUPHIN,6,0,0
+PA,Dauphin,5,0,0
+PA,ELK,5,0,0
+PA,ERIE,3,0,0
+PA,Elk,2,0,0
+PA,FAYETTE,19,0,0
+PA,FOREST,1,0,0
+PA,FRANKLIN,14,0,0
+PA,FULTON,4,0,0
+PA,Fayette,9,0,0
+PA,Franklin,5,0,0
+PA,HUNTINGDON,17,0,0
+PA,Huntingdon,3,0,0
+PA,INDIANA,8,0,0
+PA,Indiana,5,0,0
+PA,JEFFERSON,12,0,0
+PA,JUNIATA,3,0,0
+PA,Jefferson,2,0,0
+PA,Juniata,2,0,0
+PA,LACKAWANNA,30,0,0
+PA,LANCASTER,16,0,0
+PA,LAWRENCE,10,0,0
+PA,LEBANON,6,0,0
+PA,LEHIGH,12,0,0
+PA,LUZERNE,55,1,0
+PA,LYCOMING,7,0,0
+PA,Lackawanna,4,0,0
+PA,Lancaster,7,0,0
+PA,Lebanon,2,0,0
+PA,Lehigh,5,0,0
+PA,Luzerne,28,3,2
+PA,Lycoming,4,0,0
+PA,MCKEAN,5,0,0
+PA,MERCER,4,0,0
+PA,MIFFLIN,6,0,0
+PA,MONROE,15,0,0
+PA,MONTGOMERY,2,0,0
+PA,MONTOUR,7,0,0
+PA,McKean,3,0,0
+PA,Mifflin,2,0,0
+PA,Monroe,13,0,0
+PA,Montgomery,5,0,0
+PA,NORTHAMPTON,14,0,0
+PA,NORTHUMBERLAND,21,0,0
+PA,Northampton,3,0,0
+PA,Northumberland,11,0,0
+PA,PERRY,19,0,0
+PA,PIKE,23,0,0
+PA,POTTER,9,0,0
+PA,Perry,4,0,0
+PA,Pike,13,0,0
+PA,Potter,2,0,0
+PA,SCHUYLKILL,68,0,0
+PA,SNYDER,5,0,0
+PA,SOMERSET,14,0,0
+PA,SULLIVAN,3,0,0
+PA,SUSQUEHANNA,1,0,0
+PA,Schuylkill,20,0,0
+PA,Snyder,3,0,0
+PA,Somerset,10,0,0
+PA,Sullivan,3,0,0
+PA,Susquehanna,3,0,0
+PA,TIOGA,14,0,0
+PA,Tioga,4,0,0
+PA,UNION,3,0,0
+PA,Union,2,0,0
+PA,Unknown,253,1,0
+PA,VENANGO,10,0,0
+PA,Venango,1,0,0
+PA,WARREN,5,0,0
+PA,WESTMORELAND,26,0,0
+PA,WYOMING,6,0,0
+PA,Warren,2,0,0
+PA,Westmoreland,3,0,1
+PA,Wyoming,4,0,0
+PA,YORK,8,0,0
+PA,York,4,0,0
+PR,Cabo Rojo,13,0,13
+PR,Gurabo Municipio,1,1,0
+PR,Unknown,3306,40,20
+PR,Vieques,3,1,0
+RI,Bristol,3,0,0
+RI,Kent,19,0,0
+RI,Newport,2,0,0
+RI,Providence,28,0,0
+RI,Unknown,18,0,0
+RI,WASHINGTON,1,0,0
+RI,Washington,25,0,0
+SC,1.0,1,0,1
+SC,3.0,16,0,4
+SC,11.0,8,0,1
+SC,15.0,21,0,17
+SC,19.0,10,0,10
+SC,23.0,2,0,1
+SC,37.0,2,0,1
+SC,59.0,2,0,2
+SC,65.0,4,0,2
+SC,71.0,5,0,2
+SC,73.0,6,1,3
+SC,81.0,1,0,0
+SC,87.0,6,0,2
+SC,001,2,0,0
+SC,003,2,0,1
+SC,011,5,0,0
+SC,015,14,2,9
+SC,019,3,0,2
+SC,039,1,0,0
+SC,047,3,0,0
+SC,059,2,0,1
+SC,071,1,0,1
+SC,087,1,0,0
+SC,Abbeville,59,0,0
+SC,Abbeville County,41,0,0
+SC,Aiken,119,0,0
+SC,Aiken County,121,1,0
+SC,Allendale,21,0,0
+SC,Allendale County,16,0,0
+SC,Anderson,44,0,0
+SC,Anderson County,25,0,0
+SC,Bamberg,18,0,0
+SC,Bamberg County,20,0,0
+SC,Barnwell,24,0,0
+SC,Barnwell County,37,1,0
+SC,Beaufort,39,0,1
+SC,Beaufort County,42,0,1
+SC,Berkeley,129,0,0
+SC,Berkeley County,113,2,0
+SC,Calhoun,26,0,0
+SC,Calhoun County,43,0,0
+SC,Charleston,37,0,0
+SC,Charleston County,21,1,0
+SC,Cherokee,29,0,0
+SC,Cherokee County,24,0,0
+SC,Chester,25,0,0
+SC,Chester County,23,0,0
+SC,Chesterfield,94,1,0
+SC,Chesterfield County,75,0,0
+SC,Clarendon,88,0,0
+SC,Clarendon County,102,2,0
+SC,Colleton,127,0,0
+SC,Colleton County,118,1,1
+SC,Darlington,91,0,0
+SC,Darlington County,97,1,0
+SC,Dillon,47,1,0
+SC,Dillon County,41,0,0
+SC,Dorchester,51,0,0
+SC,Dorchester County,52,2,0
+SC,Edgefield,30,0,0
+SC,Edgefield County,19,0,0
+SC,Fairfield,65,1,0
+SC,Fairfield County,27,0,0
+SC,Florence,131,0,0
+SC,Florence County,111,0,0
+SC,Georgetown,52,2,0
+SC,Georgetown County,59,1,0
+SC,Greenville,40,0,0
+SC,Greenville County,22,0,0
+SC,Greenwood,21,0,0
+SC,Greenwood County,17,0,0
+SC,Hampton,52,1,0
+SC,Hampton County,59,0,0
+SC,Horry,92,1,0
+SC,Horry County,71,1,0
+SC,Jasper,87,1,0
+SC,Jasper County,76,1,1
+SC,Kershaw,75,0,0
+SC,Kershaw County,84,1,0
+SC,Lancaster,26,1,0
+SC,Lancaster County,35,0,0
+SC,Laurens,34,0,0
+SC,Laurens County,22,0,0
+SC,Lee,53,0,0
+SC,Lee County,53,0,0
+SC,Lexington,92,1,0
+SC,Lexington County,78,0,1
+SC,Marion,19,0,0
+SC,Marion County,18,0,0
+SC,Marlboro,58,0,0
+SC,Marlboro County,46,0,0
+SC,McCormick,18,0,0
+SC,McCormick County,10,0,0
+SC,Newberry,18,0,0
+SC,Newberry County,13,0,0
+SC,Oconee,50,0,0
+SC,Oconee County,31,1,1
+SC,Orangeburg,157,0,0
+SC,Orangeburg County,126,1,0
+SC,Pickens,53,0,0
+SC,Pickens County,29,0,1
+SC,Richland,41,0,0
+SC,Richland County,36,1,2
+SC,Saluda,26,0,0
+SC,Saluda County,22,0,0
+SC,Spartanburg,37,0,0
+SC,Spartanburg County,16,0,0
+SC,Sumter,84,0,0
+SC,Sumter County,81,1,0
+SC,Union,19,0,0
+SC,Union County,25,0,0
+SC,Unknown,28,2,13
+SC,Williamsburg,180,2,0
+SC,Williamsburg County,167,1,0
+SC,York,35,0,0
+SC,York County,21,0,0
+SD,31.0,1,1,1
+SD,33.0,26,1,13
+SD,47.0,4,0,4
+SD,63.0,3,0,3
+SD,71.0,2,0,1
+SD,75.0,3,0,2
+SD,81.0,12,0,8
+SD,85.0,1,0,1
+SD,93.0,6,1,4
+SD,103.0,29,0,13
+SD,105.0,6,1,5
+SD,117.0,1,0,0
+SD,031,2,0,1
+SD,033,17,1,8
+SD,047,5,2,2
+SD,063,1,1,1
+SD,071,1,0,0
+SD,081,16,1,4
+SD,093,3,0,2
+SD,103,23,0,9
+SD,AURORA,2,0,1
+SD,Aurora,7,1,7
+SD,BROOKINGS,8,0,4
+SD,BROWN,4,0,3
+SD,BUTTE,3,0,3
+SD,Beadle,3,0,3
+SD,Bennett,1,0,1
+SD,Bon Homme,10,0,5
+SD,Brookings,9,0,7
+SD,Brown,22,0,20
+SD,Brule,10,0,6
+SD,Butte,16,1,11
+SD,CHARLES MIX,7,0,7
+SD,CLAY,4,0,1
+SD,CODINGTON,2,0,1
+SD,CUSTER,14,0,13
+SD,Charles Mix,18,0,15
+SD,Clark,3,0,2
+SD,Clay,2,0,0
+SD,Codington,6,1,4
+SD,Corson,6,0,2
+SD,Custer,4,0,2
+SD,DEUEL,2,0,1
+SD,DOUGLAS,7,0,6
+SD,Davison,12,0,8
+SD,Day,1,0,1
+SD,Deuel,4,0,4
+SD,Dewey,2,0,2
+SD,Douglas,2,0,1
+SD,Edmunds,7,0,4
+SD,FALL RIVER,13,1,9
+SD,Fall River,10,0,5
+SD,Fall River co,1,0,1
+SD,Fall river,1,0,0
+SD,Faulk,2,0,1
+SD,Grant,1,0,1
+SD,Gregory,3,0,3
+SD,HAMLIN,1,0,1
+SD,HARDING,4,0,4
+SD,HUGHES,3,0,3
+SD,Haakon,2,0,1
+SD,Hamlin,2,0,1
+SD,Hand,13,1,9
+SD,Hanson,7,0,3
+SD,Harding,5,0,5
+SD,Harding ,1,0,1
+SD,Hughes,4,1,3
+SD,Hutchinson,7,0,4
+SD,Hyde,5,0,4
+SD,JACKSON,1,0,1
+SD,JONES,2,0,2
+SD,Jerauld,2,0,1
+SD,Jones,2,0,1
+SD,Jones County,1,1,1
+SD,Kingsbury,4,0,2
+SD,LINCLON,1,0,0
+SD,LINCOLN,8,0,2
+SD,LYMAN,5,1,5
+SD,Lawrence,20,3,13
+SD,Lincoln,20,1,7
+SD,Lyman,10,0,5
+SD,MCCOOK,5,0,2
+SD,MCPHERSON,5,0,4
+SD,MEAD,1,0,0
+SD,MEADE,16,5,15
+SD,MINNEHAHA,12,0,8
+SD,MOODY,3,0,2
+SD,Marshall,9,0,5
+SD,McCook,7,0,4
+SD,McPherson,8,0,3
+SD,Mcpherson,1,0,1
+SD,Meade,19,3,14
+SD,Meade County,1,0,0
+SD,Mellette,6,1,5
+SD,Miner,3,0,0
+SD,Minnehaha,23,1,11
+SD,Moody,8,0,2
+SD,PENNINGTON,22,4,18
+SD,PERKINS,4,0,2
+SD,POTTER,1,0,1
+SD,Pennington,27,0,10
+SD,Penntington,1,0,0
+SD,Perkins,11,0,11
+SD,Potter,1,0,0
+SD,Roberts,4,0,2
+SD,STANLEY,3,0,3
+SD,SULLY,2,1,1
+SD,Sanborn,4,0,3
+SD,Spink,2,0,0
+SD,Stanely,1,0,1
+SD,Stanley,3,0,3
+SD,Sully,8,0,4
+SD,TURNER,1,0,0
+SD,Tripp,7,0,6
+SD,Turner,17,0,8
+SD,Turner County,2,0,2
+SD,UNION,4,0,3
+SD,Union,12,0,5
+SD,Unknown,2368,118,933
+SD,Walworth,2,0,2
+SD,YANKTON,1,0,0
+SD,Yankton,20,1,6
+SD,Ziebach,5,0,1
+SD,bon homme,1,0,1
+SD,brown,1,0,0
+SD,brule,2,0,1
+SD,butte,1,0,1
+SD,day,1,0,0
+SD,edmunds,2,0,2
+SD,hand,1,0,0
+SD,hutchinson,1,0,1
+SD,jerauld,8,0,6
+SD,moody,3,0,2
+SD,pennignton,1,0,1
+SD,sanborn ,1,0,1
+SD,spink,3,0,3
+SD,sully,3,0,3
+SD,walworth,1,0,1
+TN,19.0,3,0,3
+TN,29.0,6,1,3
+TN,59.0,3,1,3
+TN,91.0,1,0,1
+TN,107.0,1,0,0
+TN,123.0,21,1,18
+TN,139.0,16,0,11
+TN,163.0,5,1,5
+TN,171.0,3,0,3
+TN,179.0,2,0,2
+TN,019,8,0,7
+TN,029,4,0,2
+TN,059,1,0,1
+TN,091,1,0,1
+TN,107,1,0,0
+TN,123,7,0,7
+TN,139,15,1,13
+TN,161,1,1,0
+TN,163,2,0,2
+TN,179,3,0,2
+TN,19,1,0,1
+TN,39,1,0,1
+TN,91,1,1,1
+TN,ANDERSON,13,2,10
+TN,Anderson,5,0,4
+TN,BEDFORD,1,0,0
+TN,BENTON,48,0,2
+TN,BLEDSOE,56,1,29
+TN,BLOUNT,16,2,8
+TN,BRADLEY,15,0,1
+TN,Benton,34,0,2
+TN,Bledsoe,25,0,11
+TN,Blount,10,1,6
+TN,Bradley,6,0,1
+TN,CAMPBELL,36,7,30
+TN,CANNON,8,0,0
+TN,CARROLL,62,0,0
+TN,CARTER,9,0,4
+TN,CHEATHAM,5,0,0
+TN,CHESTER,22,0,0
+TN,CLAIBORNE,29,1,11
+TN,CLAY,4,0,3
+TN,COCKE,7,0,3
+TN,COFFEE,33,0,0
+TN,CROCKETT,1,0,0
+TN,CUMBERLAND,42,0,17
+TN,Campbell,23,2,18
+TN,Cannon,9,0,0
+TN,Carroll,18,0,0
+TN,Carter,6,0,5
+TN,Cheatham,2,0,0
+TN,Chester,8,0,0
+TN,Claiborne,11,0,3
+TN,Clay,1,0,0
+TN,Cocke,9,0,0
+TN,Coffee,26,1,1
+TN,Cumberland,14,2,8
+TN,DECATUR,32,0,1
+TN,DEKALB,17,0,0
+TN,DICKSON,25,0,1
+TN,DYER,25,0,0
+TN,Davidson,8,0,1
+TN,Decatur,7,0,0
+TN,Dekalb,11,0,2
+TN,Dickson,15,0,0
+TN,Dyer,6,1,0
+TN,FAYETTE,12,0,0
+TN,FENTRESS,19,3,8
+TN,FRANKLIN,22,0,2
+TN,Fayette,9,0,2
+TN,Fentress,5,0,1
+TN,Franklin,3,1,0
+TN,GIBSON,7,0,0
+TN,GILES,47,0,1
+TN,GRAINGER,8,1,2
+TN,GREENE,4,0,1
+TN,GRUNDY,107,1,38
+TN,Gibson,4,0,0
+TN,Giles,15,0,0
+TN,Grainger,10,0,3
+TN,Greene,3,0,0
+TN,Grundy,30,0,16
+TN,HAMBLEN,9,0,2
+TN,HAMILTON,39,2,8
+TN,HANCOCK,9,1,5
+TN,HARDEMAN,45,1,2
+TN,HARDIN,74,0,2
+TN,HAWKINS,26,0,8
+TN,HENDERSON,49,0,2
+TN,HENRY,48,0,1
+TN,HICKMAN,63,1,5
+TN,HOUSTON,16,0,3
+TN,HUMPHREYS,22,1,0
+TN,Hamblen,11,0,1
+TN,Hamilton,11,0,4
+TN,Hancock,10,0,4
+TN,Hardeman,16,0,1
+TN,Hardin,31,1,0
+TN,Hawkins,13,0,6
+TN,Haywood,2,1,1
+TN,Henderson,40,0,1
+TN,Henry,15,0,1
+TN,Hickman,34,0,0
+TN,Houston,4,0,0
+TN,Humphreys,12,0,0
+TN,JACKSON,11,1,2
+TN,JEFFERSON,3,0,1
+TN,JOHNSON,2,0,2
+TN,Jackson,9,0,2
+TN,Johnson,2,0,2
+TN,KNOX,11,0,1
+TN,Knox,3,0,1
+TN,LAUDERDALE,18,0,1
+TN,LAWRENCE,79,0,2
+TN,LEWIS,37,0,0
+TN,LINCOLN,60,0,1
+TN,LOUDON,6,0,2
+TN,Lake,1,0,0
+TN,Lauderdale,14,0,0
+TN,Lawrence,29,0,2
+TN,Lewis,9,0,0
+TN,Lincoln,39,0,1
+TN,Loudon,6,0,0
+TN,MACON,3,0,0
+TN,MARION,66,2,24
+TN,MARSHALL,20,0,1
+TN,MAURY,10,0,0
+TN,MCMINN,29,1,9
+TN,MCNAIRY,63,0,0
+TN,MEIGS,22,0,8
+TN,MONROE,34,0,4
+TN,MONTGOMERY,4,0,0
+TN,MORGAN,55,5,40
+TN,Macon,17,0,2
+TN,Madison,5,1,0
+TN,Marion,15,0,5
+TN,Marshall,11,0,0
+TN,Maury,7,0,0
+TN,McMinn,7,0,3
+TN,McNairy,42,0,1
+TN,Meigs,13,0,4
+TN,Monroe,23,2,7
+TN,Montgomery,8,0,1
+TN,Moore,7,0,3
+TN,Morgan,29,2,18
+TN,OBION,27,0,0
+TN,OVERTON,10,1,6
+TN,Obion,3,0,0
+TN,Overton,10,0,2
+TN,PERRY,18,1,0
+TN,PICKETT,3,2,2
+TN,POLK,12,0,2
+TN,PUTNAM,18,0,1
+TN,Perry,6,0,0
+TN,Pickett,6,0,4
+TN,Polk,7,0,1
+TN,Putnam,4,0,1
+TN,RHEA,57,1,13
+TN,ROANE,14,2,8
+TN,ROBERTSON,4,0,0
+TN,RUTHERFORD,1,0,0
+TN,Rhea,10,0,1
+TN,Roane,14,0,1
+TN,Robertson,5,0,0
+TN,Rutherford,6,0,0
+TN,SCOTT,44,4,27
+TN,SEQUATCHIE,27,1,14
+TN,SEVIER,29,1,10
+TN,SMITH,4,0,0
+TN,STEWART,20,1,2
+TN,SULLIVAN,16,0,8
+TN,SUMNER,4,0,0
+TN,Scott,12,0,8
+TN,Sequatchie,10,0,7
+TN,Sevier,13,0,3
+TN,Smith,4,0,0
+TN,Stewart,12,1,5
+TN,Sullivan,2,0,2
+TN,Sumner,4,0,0
+TN,TROUSDALE,1,0,0
+TN,Tipton,3,0,0
+TN,Trousdale,2,0,1
+TN,UNICOI,2,0,1
+TN,UNION,15,1,9
+TN,Unicoi,2,0,1
+TN,Union,2,0,1
+TN,Unknown,58,5,26
+TN,VAN BUREN,38,1,21
+TN,Van Buren,7,0,3
+TN,WARREN,12,0,2
+TN,WASHINGTON,2,0,0
+TN,WAYNE,92,1,0
+TN,WEAKLEY,89,0,3
+TN,WHITE,14,0,6
+TN,WILLIAMSON,3,0,0
+TN,WILSON,4,0,0
+TN,Warren,2,0,0
+TN,Washington,9,0,4
+TN,Wayne,49,0,3
+TN,Weakley,34,0,0
+TN,White,3,1,0
+TN,Williamson,5,0,0
+TN,Wilson,12,0,0
+TX,5.0,1,0,1
+TX,111.0,4,3,4
+TX,147.0,1,0,1
+TX,179.0,1,1,1
+TX,211.0,1,1,1
+TX,225.0,2,0,2
+TX,339.0,2,0,2
+TX,403.0,2,0,2
+TX,405.0,1,0,1
+TX,407.0,3,2,3
+TX,419.0,3,0,2
+TX,455.0,5,0,5
+TX,497.0,1,0,1
+TX,005,2,0,1
+TX,111,1,0,1
+TX,147,1,0,1
+TX,179,1,0,1
+TX,211,1,0,1
+TX,225,1,0,1
+TX,339,4,0,4
+TX,403,1,0,1
+TX,405,2,0,0
+TX,419,1,0,1
+TX,455,5,1,2
+TX,471,2,0,1
+TX,497,2,0,1
+TX,Anderson,258,3,30
+TX,Andrews,200,17,189
+TX,Angelina,194,1,16
+TX,Aransas,34,0,18
+TX,Archer,137,15,93
+TX,Armstrong,24,5,23
+TX,Atascosa,287,7,139
+TX,Austin,31,0,4
+TX,Bailey,46,7,43
+TX,Bandera,26,2,18
+TX,Bastrop,290,4,17
+TX,Baylor,18,3,18
+TX,Bee,81,5,45
+TX,Bell,298,6,81
+TX,Bexar,230,5,100
+TX,Blanco,82,2,39
+TX,Borden,6,2,6
+TX,Bosque,205,8,38
+TX,Bowie,310,1,14
+TX,Brazoria,72,4,7
+TX,Brazos,142,1,9
+TX,Brewster,26,8,26
+TX,Briscoe,19,6,17
+TX,Brooks,23,5,19
+TX,Brown,193,5,131
+TX,Burleson,163,0,12
+TX,Burnet,137,4,43
+TX,Caldwell,122,0,21
+TX,Calhoun,27,0,15
+TX,Callahan,182,8,128
+TX,Cameron,19,1,4
+TX,Camp,116,0,1
+TX,Carson,43,9,41
+TX,Cass,296,1,19
+TX,Castro,10,3,7
+TX,Chambers,15,1,8
+TX,Cherokee,381,4,15
+TX,Childress,9,2,9
+TX,Clay,181,18,107
+TX,Cochran,8,4,8
+TX,Coke,36,6,30
+TX,Coleman,98,18,81
+TX,Collin,230,5,38
+TX,Collingsworth,26,5,26
+TX,Colorado,7,0,0
+TX,Comal,86,1,37
+TX,Comanche,108,4,35
+TX,Concho,36,3,35
+TX,Cooke,242,6,65
+TX,Coryell,198,6,54
+TX,Cottle,53,18,51
+TX,Crane,10,9,10
+TX,Crockett,36,4,33
+TX,Crosby,22,1,18
+TX,Culberson,19,2,18
+TX,Dallam,47,7,47
+TX,Dallas,155,0,1
+TX,Dawson,5,3,4
+TX,De Witt,39,1,18
+TX,DeWitt,3,0,1
+TX,Deaf Smith,29,5,27
+TX,Delta,35,0,6
+TX,Denton,163,5,38
+TX,Dickens,26,2,23
+TX,Dimmit,30,5,29
+TX,Donley,70,9,57
+TX,Duval,19,3,19
+TX,Eastland,97,7,62
+TX,Ector,23,6,23
+TX,Edwards,21,2,20
+TX,El Paso,6,0,2
+TX,Ellis,144,6,27
+TX,Erath,335,8,112
+TX,Falls,36,0,11
+TX,Fannin,214,3,32
+TX,Fayette,42,1,11
+TX,Fisher,64,8,53
+TX,Floyd,36,6,34
+TX,Foard,4,1,4
+TX,Fort Bend,13,0,5
+TX,Franklin,66,1,9
+TX,Freestone,198,4,27
+TX,Frio,190,9,136
+TX,Gaines,123,12,98
+TX,Galveston,21,2,9
+TX,Garza,17,10,17
+TX,Gillespie,175,7,97
+TX,Glasscock,5,2,5
+TX,Goliad,45,2,31
+TX,Gonzales,33,1,21
+TX,Gray,20,3,19
+TX,Grayson,178,7,29
+TX,Gregg,203,0,7
+TX,Grimes,212,2,16
+TX,Guadalupe,132,6,61
+TX,Hale,16,5,15
+TX,Hall,32,5,31
+TX,Hamilton,107,6,41
+TX,Hansford,31,8,31
+TX,Hardeman,35,6,30
+TX,Hardin,138,12,49
+TX,Harris,43,1,8
+TX,Harrison,278,1,7
+TX,Hartley,54,9,48
+TX,Haskell,61,6,55
+TX,Hays,84,1,20
+TX,Hemphill,58,6,58
+TX,Henderson,191,2,16
+TX,Hidalgo,337,1,7
+TX,Hill,236,4,19
+TX,Hockley,8,3,8
+TX,Hood,105,1,34
+TX,Hopkins,71,1,16
+TX,Houston,166,1,19
+TX,Howard,159,1,139
+TX,Hudspeth,4,0,4
+TX,Hunt,310,5,31
+TX,Hutchinson,66,2,63
+TX,Irion,20,4,19
+TX,Jack,95,8,63
+TX,Jackson,12,1,7
+TX,Jasper,342,6,43
+TX,Jeff Davis,51,13,51
+TX,Jefferson,58,7,13
+TX,Jim Hogg,2,2,2
+TX,Jim Wells,134,3,109
+TX,Johnson,85,4,28
+TX,Jones,104,10,92
+TX,Karnes,64,0,25
+TX,Kaufman,275,4,36
+TX,Kendall,95,2,68
+TX,Kenedy,19,3,6
+TX,Kent,7,6,7
+TX,Kerr,75,8,62
+TX,Kimble,34,5,33
+TX,King,2,1,2
+TX,Kinney,10,5,10
+TX,Kleberg,12,0,8
+TX,Knox,13,4,12
+TX,La Salle,97,13,75
+TX,Lamar,216,4,51
+TX,Lamb,44,12,43
+TX,Lampasas,34,4,17
+TX,Lavaca,54,1,19
+TX,Lee,98,1,9
+TX,Leon,50,1,16
+TX,Liberty,40,3,6
+TX,Limestone,156,13,34
+TX,Lipscomb,32,12,32
+TX,Live Oak,63,1,51
+TX,Llano,42,5,28
+TX,Loving,4,1,4
+TX,Lubbock,114,4,107
+TX,Lynn,44,7,39
+TX,Madison,22,1,3
+TX,Marion,154,0,3
+TX,Martin,31,9,31
+TX,Mason,58,5,36
+TX,Matagorda,21,4,7
+TX,Maverick,19,2,19
+TX,McCulloch,20,2,19
+TX,McLennan,201,7,28
+TX,McMullen,4,0,4
+TX,Medina,122,8,73
+TX,Menard,10,3,10
+TX,Midland,80,4,77
+TX,Milam,100,2,16
+TX,Mills,22,1,11
+TX,Mitchell,24,5,24
+TX,Montague,217,4,76
+TX,Montgomery,115,0,21
+TX,Moore,34,4,32
+TX,Morris,66,0,2
+TX,Motley,22,4,20
+TX,Nacogdoches,157,0,8
+TX,Navarro,389,5,36
+TX,Newton,144,2,21
+TX,Nolan,80,8,73
+TX,Nueces,44,3,33
+TX,Ochiltree,3,1,3
+TX,Oldham,11,2,10
+TX,Orange,29,0,6
+TX,Palo Pinto,280,11,99
+TX,Panola,188,1,11
+TX,Parker,212,7,59
+TX,Parmer,7,1,7
+TX,Pecos,25,6,25
+TX,Polk,110,1,19
+TX,Potter,88,3,83
+TX,Presidio,43,11,42
+TX,Rains,9,0,0
+TX,Randall,91,3,80
+TX,Reagan,15,7,15
+TX,Real,21,0,20
+TX,Red River,225,8,20
+TX,Reeves,3,2,3
+TX,Refugio,10,1,5
+TX,Roberts,7,2,7
+TX,Robertson,53,3,14
+TX,Rockwall,46,2,3
+TX,Runnels,19,4,18
+TX,Rusk,374,1,9
+TX,Sabine,83,0,4
+TX,San Augustine,60,2,10
+TX,San Jacinto,113,1,3
+TX,San Patricio,15,2,14
+TX,San Saba,65,14,51
+TX,Schleicher,25,4,23
+TX,Scurry,93,6,79
+TX,Shackelford,57,16,52
+TX,Shelby,51,0,6
+TX,Sherman,13,2,13
+TX,Smith,432,2,6
+TX,Somervell,3,0,1
+TX,Starr,216,4,100
+TX,Stephens,76,9,52
+TX,Sterling,20,7,20
+TX,Stonewall,48,8,43
+TX,Sutton,4,1,4
+TX,Swisher,97,8,90
+TX,Tarrant,253,2,27
+TX,Taylor,196,7,124
+TX,Terrell,2,1,2
+TX,Terry,35,8,27
+TX,Throckmorton,36,4,30
+TX,Titus,250,1,6
+TX,Tom Green,160,5,130
+TX,Travis,127,2,27
+TX,Trinity,40,2,13
+TX,Tyler,161,2,10
+TX,Unknown,571,55,509
+TX,Upshur,439,1,7
+TX,Upton,5,0,5
+TX,Uvalde,79,1,70
+TX,Val Verde,26,10,26
+TX,Van Zandt,155,1,6
+TX,Victoria,107,6,42
+TX,Walker,82,6,17
+TX,Waller,17,0,2
+TX,Ward,46,3,45
+TX,Washington,100,0,4
+TX,Webb,11,2,8
+TX,Wharton,22,0,13
+TX,Wheeler,111,18,107
+TX,Wichita,218,16,158
+TX,Wilbarger,53,11,46
+TX,Willacy,24,0,4
+TX,Williamson,214,4,21
+TX,Wilson,136,7,40
+TX,Winkler,59,7,49
+TX,Wise,172,6,32
+TX,Wood,363,2,3
+TX,Yoakum,4,3,4
+TX,Young,152,7,94
+TX,Zapata,46,5,41
+TX,Zavala,37,7,31
+UT,1.0,2,0,2
+UT,3.0,3,0,2
+UT,5.0,11,0,8
+UT,9.0,9,0,9
+UT,13.0,14,1,10
+UT,15.0,3,1,2
+UT,17.0,28,0,19
+UT,19.0,1,0,0
+UT,21.0,8,0,3
+UT,23.0,2,0,1
+UT,25.0,9,0,2
+UT,27.0,21,2,20
+UT,31.0,2,0,0
+UT,33.0,3,0,2
+UT,35.0,10,0,6
+UT,37.0,25,2,14
+UT,39.0,10,0,6
+UT,41.0,25,1,18
+UT,43.0,12,0,4
+UT,45.0,5,1,4
+UT,47.0,4,0,3
+UT,49.0,18,1,9
+UT,51.0,9,0,9
+UT,53.0,18,1,13
+UT,55.0,3,0,1
+UT,57.0,2,0,1
+UT,001,3,1,1
+UT,003,6,1,4
+UT,005,5,0,1
+UT,009,5,0,3
+UT,011,2,0,1
+UT,013,7,0,3
+UT,015,4,1,2
+UT,017,22,3,6
+UT,019,2,0,0
+UT,021,5,0,1
+UT,025,5,0,1
+UT,027,15,0,8
+UT,031,3,0,1
+UT,033,2,0,0
+UT,035,5,0,1
+UT,037,12,1,6
+UT,039,3,0,0
+UT,041,12,1,5
+UT,043,3,0,1
+UT,045,2,0,2
+UT,049,14,0,5
+UT,051,12,0,4
+UT,053,12,0,3
+UT,055,4,0,1
+UT,057,8,0,1
+UT,17,2,0,2
+UT,19,2,1,1
+UT,25,1,0,1
+UT,37,3,0,2
+UT,39,1,0,0
+UT,53,1,0,1
+UT,BEAVER,7,0,4
+UT,BOX ELDER,39,0,19
+UT,Beaver,46,0,42
+UT,Box Elder,69,13,63
+UT,CACHE,14,1,2
+UT,CARBON,11,1,2
+UT,Cache,28,1,13
+UT,Carbon,45,1,17
+UT,DAGGETT,1,0,1
+UT,DAVIS,1,1,1
+UT,DUCHESNE,39,0,14
+UT,Daggett,12,0,11
+UT,Davis,6,0,4
+UT,Duchesne,37,1,22
+UT,EMERY,5,0,2
+UT,Emery,22,1,14
+UT,GARFIELD,4,0,0
+UT,GRAND,8,0,4
+UT,Garfield,39,0,28
+UT,Grand,78,1,39
+UT,IRON,23,0,10
+UT,Iron,139,2,116
+UT,JUAB,16,0,4
+UT,Juab,111,7,84
+UT,KANE,16,0,5
+UT,Kane,124,1,76
+UT,MILLARD,19,0,11
+UT,MORGAN,16,0,7
+UT,Millard,63,7,56
+UT,Morgan,13,1,8
+UT,PIUTE,2,0,1
+UT,Piute,7,0,4
+UT,RICH,4,0,2
+UT,Rich,7,0,4
+UT,SALT LAKE,1,0,1
+UT,SAN JUAN,17,0,4
+UT,SANPETE,18,0,4
+UT,SEVIER,3,0,1
+UT,SUMMIT,60,1,16
+UT,Salt Lake,5,0,2
+UT,San Juan,154,1,44
+UT,Sanpete,45,1,15
+UT,Sevier,31,2,23
+UT,Summit,50,1,38
+UT,TOOELE,19,0,10
+UT,Tooele,156,10,132
+UT,UINTAH,29,0,9
+UT,UTAH,40,0,16
+UT,Uintah,62,3,38
+UT,Unknown,235,5,105
+UT,Utah,108,7,62
+UT,WASATCH,14,0,2
+UT,WASHINGTON,31,1,7
+UT,WEBER,7,0,1
+UT,Wasatch,16,0,16
+UT,Washington,142,10,127
+UT,Wayne,3,0,1
+UT,Weber,10,0,8
+VA,5.0,4,0,4
+VA,9.0,1,0,1
+VA,15.0,3,0,3
+VA,17.0,2,1,2
+VA,19.0,1,1,0
+VA,21.0,2,0,2
+VA,23.0,3,1,3
+VA,45.0,1,0,1
+VA,105.0,1,0,1
+VA,121.0,1,0,1
+VA,125.0,1,0,1
+VA,139.0,1,0,1
+VA,163.0,4,0,4
+VA,165.0,3,0,3
+VA,171.0,2,0,1
+VA,195.0,2,0,2
+VA,005,2,0,2
+VA,009,1,0,1
+VA,015,4,1,3
+VA,017,3,0,3
+VA,023,2,1,2
+VA,027,1,1,1
+VA,045,1,0,1
+VA,069,1,0,0
+VA,139,2,0,2
+VA,165,2,0,2
+VA,173,1,0,1
+VA,195,1,0,1
+VA,5,1,0,1
+VA,9,2,0,2
+VA,Accomack,20,1,2
+VA,Albemarle,46,2,1
+VA,Alleghany,11,0,0
+VA,Amelia,29,0,0
+VA,Amherst,21,2,0
+VA,Appomattox,26,0,0
+VA,Augusta,28,1,1
+VA,Bath,2,0,0
+VA,Bedford,39,0,2
+VA,Bland,7,0,3
+VA,Botetourt,18,0,1
+VA,Brunswick,26,3,0
+VA,Buchanan,52,12,45
+VA,Buckingham,46,1,0
+VA,Campbell,54,0,1
+VA,Caroline,41,0,2
+VA,Carroll,31,0,0
+VA,Charles City,23,0,0
+VA,Charlotte,26,0,0
+VA,Chesapeake City,2,1,0
+VA,Chesterfield,23,0,1
+VA,Clarke,14,0,0
+VA,Craig,3,0,0
+VA,Culpeper,15,0,0
+VA,Cumberland,7,0,1
+VA,Dickenson,35,1,26
+VA,Dinwiddie,23,1,3
+VA,Essex,10,0,1
+VA,Fauquier,26,0,2
+VA,Floyd,6,0,1
+VA,Fluvanna,23,0,0
+VA,Franklin,21,0,2
+VA,Frederick,48,0,0
+VA,Giles,6,1,5
+VA,Gloucester,10,1,1
+VA,Goochland,11,0,0
+VA,Grayson,10,0,0
+VA,Greene,11,0,0
+VA,Greensville,18,1,0
+VA,Halifax,72,1,6
+VA,Hanover,14,0,3
+VA,Henrico,5,0,1
+VA,Henry,26,0,0
+VA,Highland,1,1,0
+VA,Isle of Wight,11,0,1
+VA,James City,7,0,0
+VA,King George,6,0,0
+VA,King William,5,0,0
+VA,King and Queen,9,0,0
+VA,Lancaster,21,0,0
+VA,Lee,40,3,31
+VA,Loudoun,11,0,0
+VA,Louisa,51,0,0
+VA,Lunenburg,68,0,0
+VA,Madison,19,0,0
+VA,Mathews,3,0,0
+VA,Mecklenburg,54,0,0
+VA,Middlesex,16,0,0
+VA,Montgomery,8,0,1
+VA,Nelson,32,0,0
+VA,New Kent,15,0,1
+VA,Northampton,2,0,0
+VA,Northumberland,9,0,0
+VA,Nottoway,51,0,0
+VA,Orange,26,0,2
+VA,Page,22,1,0
+VA,Patrick,15,0,2
+VA,Pittsylvania,41,0,1
+VA,Powhatan,8,0,0
+VA,Prince Edward,26,0,0
+VA,Prince George,8,0,0
+VA,Prince William,2,0,0
+VA,Pulaski,7,0,0
+VA,Rappahannock,11,0,0
+VA,Richmond,3,0,0
+VA,Roanoke,10,0,0
+VA,Rockbridge,6,0,0
+VA,Rockingham,38,0,1
+VA,Russell,25,1,20
+VA,Scott,41,3,24
+VA,Shenandoah,19,0,0
+VA,Smyth,5,0,2
+VA,Southampton,11,0,0
+VA,Spotsylvania,23,0,0
+VA,Stafford,3,0,0
+VA,Suffolk,3,0,0
+VA,Suffolk City,4,0,0
+VA,Surry,7,0,3
+VA,Sussex,18,0,1
+VA,Tazewell,10,0,3
+VA,Unknown,41,6,23
+VA,Virginia Beach,2,1,0
+VA,Virginia Beach City,2,0,0
+VA,Warren,16,0,0
+VA,Washington,21,0,10
+VA,Westmoreland,11,0,0
+VA,Wise,24,0,13
+VA,Wythe,7,0,0
+VA,York,3,0,0
+VT,25.0,1,0,0
+VT,001,2,0,0
+VT,Addison,4,0,0
+VT,Bennington,5,0,0
+VT,Caledonia,9,0,0
+VT,Chittenden,10,0,0
+VT,Essex,2,0,0
+VT,Franklin,9,0,0
+VT,Grand Isle,1,0,0
+VT,Lamoille,6,0,0
+VT,Orange,3,0,0
+VT,Orleans,2,0,0
+VT,Rutland,6,0,0
+VT,Unknown,6,0,0
+VT,Washington,1,0,0
+VT,Windsor,4,0,0
+WA,3.0,3,0,1
+WA,7.0,49,3,36
+WA,9.0,5,0,0
+WA,13.0,12,1,9
+WA,15.0,1,0,0
+WA,19.0,17,1,3
+WA,23.0,1,0,0
+WA,31.0,3,0,0
+WA,33.0,23,1,4
+WA,37.0,23,1,6
+WA,39.0,7,0,4
+WA,41.0,13,0,4
+WA,45.0,3,0,0
+WA,47.0,44,2,26
+WA,51.0,30,0,3
+WA,53.0,5,0,0
+WA,57.0,6,0,0
+WA,59.0,30,1,6
+WA,61.0,19,0,4
+WA,65.0,16,1,3
+WA,71.0,1,0,1
+WA,73.0,8,0,0
+WA,77.0,19,2,10
+WA,003,3,0,3
+WA,007,44,1,29
+WA,009,4,0,0
+WA,011,9,0,1
+WA,013,7,1,7
+WA,015,7,0,0
+WA,017,2,1,2
+WA,019,16,2,10
+WA,023,2,0,1
+WA,027,6,0,0
+WA,031,1,0,0
+WA,033,14,0,2
+WA,037,28,1,17
+WA,039,16,1,9
+WA,041,10,1,2
+WA,045,10,0,1
+WA,047,58,3,29
+WA,049,2,0,0
+WA,051,17,0,4
+WA,053,10,0,0
+WA,055,2,0,0
+WA,057,8,0,2
+WA,059,19,1,4
+WA,061,8,1,1
+WA,063,31,0,11
+WA,065,25,0,4
+WA,067,6,0,0
+WA,071,2,0,1
+WA,073,8,0,0
+WA,077,25,0,11
+WA,11,13,0,0
+WA,13,1,0,0
+WA,15,18,0,1
+WA,19,4,0,1
+WA,27,6,0,0
+WA,29,2,0,0
+WA,3,6,0,2
+WA,31,1,0,0
+WA,33,1,0,0
+WA,35,1,0,0
+WA,37,14,0,8
+WA,39,13,0,2
+WA,41,12,0,0
+WA,43,4,1,2
+WA,45,17,0,0
+WA,47,37,0,17
+WA,49,6,1,0
+WA,51,7,0,0
+WA,53,7,0,0
+WA,55,1,0,0
+WA,57,7,0,0
+WA,59,2,0,0
+WA,61,4,0,0
+WA,63,60,1,9
+WA,65,41,3,13
+WA,67,19,0,0
+WA,69,2,0,0
+WA,7,10,3,7
+WA,73,9,0,0
+WA,77,5,0,1
+WA,9,2,0,0
+WA,Asotin,2,1,2
+WA,Asotin C,1,0,1
+WA,Asotin County,1,1,1
+WA,Benton,5,2,5
+WA,CHELAN,2,0,1
+WA,CLALLAM,3,0,0
+WA,CLARK,3,0,0
+WA,COWLITZ,7,0,0
+WA,Chelan,17,4,14
+WA,Chelan C,5,1,1
+WA,Chelan County,24,0,15
+WA,Clallam,11,0,0
+WA,Clallam C,2,0,0
+WA,Clallam County,8,0,0
+WA,Clark,15,0,0
+WA,Clark C,3,0,0
+WA,Clark County,13,1,0
+WA,Columbia,4,2,2
+WA,Cowlitz,14,0,0
+WA,Cowlitz C,6,0,0
+WA,Cowlitz County,18,0,0
+WA,Douglas,12,5,11
+WA,FERRY,2,0,0
+WA,Ferry,28,0,8
+WA,Ferry C,5,0,1
+WA,Ferry County,16,0,1
+WA,Franklin,2,0,2
+WA,GRAYS HARBOR,2,0,0
+WA,Garfield,2,0,0
+WA,Grant,8,3,8
+WA,Grant County,1,1,1
+WA,Grays Harbor,15,0,0
+WA,Grays Harbor County,6,0,0
+WA,Island,2,0,0
+WA,Island C,1,0,0
+WA,Island County,6,0,0
+WA,Jefferson,6,0,0
+WA,Jefferson C,1,0,0
+WA,Jefferson County,5,0,0
+WA,KING,1,0,0
+WA,KITTITAS,6,0,1
+WA,KLICKITAT,8,0,0
+WA,King,5,0,0
+WA,King C,3,0,1
+WA,King County,3,0,0
+WA,Kitsap,2,0,0
+WA,Kitsap C,1,0,0
+WA,Kittitas,20,2,15
+WA,Kittitas C,5,0,4
+WA,Kittitas County,19,1,11
+WA,Klickitat,32,2,14
+WA,Klickitat C,9,0,5
+WA,Klickitat County,28,1,6
+WA,Lewis,15,0,0
+WA,Lewis C,3,0,0
+WA,Lewis County,18,0,0
+WA,Lincoln,18,6,14
+WA,Lincoln C,2,0,0
+WA,Lincoln County,6,0,2
+WA,MASON,4,0,0
+WA,Mason,17,0,0
+WA,Mason C,9,0,0
+WA,Mason County,18,0,0
+WA,OKANOGAN,14,0,3
+WA,Okanogan,70,8,53
+WA,Okanogan C,24,0,14
+WA,Okanogan County,71,0,39
+WA,PEND OREILLE,2,0,1
+WA,PIERCE,3,0,0
+WA,Pacific,9,1,0
+WA,Pacific C,2,0,0
+WA,Pacific County,8,1,0
+WA,Pend Oreille,16,0,1
+WA,Pend Oreille C,2,0,0
+WA,Pend Oreille County,19,0,0
+WA,Pierce,12,0,0
+WA,Pierce C,3,0,0
+WA,Pierce County,5,0,0
+WA,SAN JUAN,1,0,0
+WA,SKAGIT,3,0,0
+WA,SKAMANIA,2,0,0
+WA,SNOHOMISH,3,0,0
+WA,SPOKANE,15,0,0
+WA,STEVENS,12,0,2
+WA,San Juan,4,0,0
+WA,San Juan C,1,0,0
+WA,San Juan County,4,0,0
+WA,Skagit,9,0,0
+WA,Skagit C,6,0,0
+WA,Skagit County,9,0,0
+WA,Skamania,12,0,0
+WA,Skamania C,3,0,0
+WA,Skamania County,9,0,0
+WA,Snohomish,4,0,0
+WA,Snohomish C,2,0,0
+WA,Snohomish County,13,0,0
+WA,Spokane,79,1,24
+WA,Spokane C,16,0,6
+WA,Spokane County,61,1,6
+WA,Stevens,61,1,5
+WA,Stevens C,31,0,5
+WA,Stevens County,55,0,7
+WA,Thurston,26,0,0
+WA,Thurston C,7,0,0
+WA,Thurston County,17,0,0
+WA,Unknown,806,41,345
+WA,WHATCOM,1,0,0
+WA,Wahkiakum,2,0,0
+WA,Wahkiakum C,2,0,0
+WA,Wahkiakum County,2,0,0
+WA,Walla Walla,5,1,5
+WA,Walla Walla County,1,0,0
+WA,Whatcom,7,0,0
+WA,Whatcom County,8,0,0
+WA,Whitman,1,1,1
+WA,YAKIMA,3,0,2
+WA,Yakima,15,2,11
+WA,Yakima C,6,1,3
+WA,Yakima County,15,1,8
+WI,3.0,2,0,0
+WI,7.0,10,0,0
+WI,37.0,4,0,0
+WI,41.0,8,0,0
+WI,83.0,14,0,0
+WI,99.0,6,1,0
+WI,113.0,1,0,0
+WI,125.0,5,0,0
+WI,003,1,0,0
+WI,007,2,0,0
+WI,041,4,0,0
+WI,083,10,0,0
+WI,099,1,0,0
+WI,113,3,0,0
+WI,125,6,0,0
+WI,Adams,103,0,0
+WI,Ashland,20,0,0
+WI,Barron,29,0,0
+WI,Bayfield,42,0,0
+WI,Brown,2,0,0
+WI,Burnett,89,0,0
+WI,Chippewa,20,0,0
+WI,Clark,15,0,0
+WI,Columbia,57,0,0
+WI,Crawford,29,1,0
+WI,Dane,20,0,1
+WI,Dodge,6,0,0
+WI,Douglas,51,1,0
+WI,Dunn,1,0,0
+WI,Eau Claire,28,0,0
+WI,Florence,23,0,0
+WI,Fond du Lac,2,1,1
+WI,Forest,14,0,0
+WI,Grant,22,0,0
+WI,Green Lake,29,0,0
+WI,Iowa,26,0,0
+WI,Iron,18,1,0
+WI,Jackson,45,1,0
+WI,Jefferson,3,1,0
+WI,Juneau,58,0,0
+WI,Langlade,33,0,0
+WI,Lincoln,46,0,0
+WI,Marathon,37,0,0
+WI,Marinette,115,0,0
+WI,Marquette,73,0,0
+WI,Menominee,7,0,0
+WI,Milwaukee,1,0,0
+WI,Monroe,41,0,0
+WI,Oconto,57,0,0
+WI,Oneida,72,0,0
+WI,Polk,21,0,0
+WI,Portage,70,0,0
+WI,Price,41,0,0
+WI,Richland,31,0,0
+WI,Rusk,54,0,0
+WI,Sauk,62,0,0
+WI,Sawyer,61,0,0
+WI,Shawano,24,0,0
+WI,Sheboygan,1,0,0
+WI,St. Croix,1,0,0
+WI,Taylor,53,0,0
+WI,Trempealeau,1,0,0
+WI,Unknown,385,1,1
+WI,Vilas,56,0,0
+WI,Walworth,1,0,0
+WI,Washburn,59,0,0
+WI,Washington,1,0,0
+WI,Waupaca,62,0,0
+WI,Waushara,89,0,0
+WI,Winnebago,3,2,0
+WI,Wood,44,1,0
+WV,23.0,1,0,0
+WV,31.0,1,0,0
+WV,75.0,5,0,1
+WV,77.0,1,0,0
+WV,83.0,4,0,1
+WV,101.0,1,0,1
+WV,031,2,1,1
+WV,071,1,0,0
+WV,075,5,0,3
+WV,083,1,0,1
+WV,101,1,0,1
+WV,Barbour,11,0,0
+WV,Berkeley,26,0,0
+WV,Boone,61,9,48
+WV,Braxton,17,1,3
+WV,Brooke,3,0,0
+WV,Cabell,51,1,11
+WV,Calhoun,12,0,1
+WV,Clay,38,2,13
+WV,Doddridge,11,1,0
+WV,Fayette,57,0,20
+WV,Gilmer,13,0,1
+WV,Grant,15,0,0
+WV,Greenbrier,16,0,2
+WV,Hampshire,35,0,0
+WV,Hancock,3,0,0
+WV,Hardy,19,0,0
+WV,Harrison,19,0,0
+WV,Jackson,22,0,2
+WV,Jefferson,4,0,0
+WV,Kanawha,123,11,54
+WV,LINCOLN,1,0,1
+WV,LOGAN,1,0,1
+WV,Lewis,8,0,0
+WV,Lincoln,62,1,39
+WV,Logan,82,5,65
+WV,MASON,1,0,1
+WV,MERCER,1,0,1
+WV,MINGO,2,2,2
+WV,Marion,20,0,0
+WV,Marshall,18,0,3
+WV,Mason,52,4,29
+WV,McDowell,62,10,42
+WV,Mercer,96,0,30
+WV,Mineral,13,0,0
+WV,Mingo,88,8,74
+WV,Monongalia,41,0,0
+WV,Monroe,20,0,1
+WV,Morgan,15,0,0
+WV,Nicholas,40,2,10
+WV,Ohio,3,0,0
+WV,Pendleton,21,0,0
+WV,Pleasants,9,0,0
+WV,Pocahontas,16,0,0
+WV,Preston,27,0,0
+WV,Putnam,41,0,7
+WV,Raleigh,75,4,29
+WV,Randolph,12,0,0
+WV,Ritchie,23,0,0
+WV,Roane,19,0,2
+WV,Summers,28,0,3
+WV,Taylor,14,0,0
+WV,Tucker,2,0,0
+WV,Tyler,10,0,0
+WV,Unknown,11,1,6
+WV,Upshur,22,0,0
+WV,WAYNE,2,0,2
+WV,WYOMING,1,0,1
+WV,Wayne,108,5,80
+WV,Webster,14,0,3
+WV,Wetzel,12,0,0
+WV,Wirt,9,0,0
+WV,Wood,26,0,0
+WV,Wyoming,79,7,58
+WY,1.0,29,0,26
+WY,3.0,4,1,3
+WY,5.0,10,2,10
+WY,7.0,4,0,3
+WY,9.0,12,0,11
+WY,11.0,13,0,11
+WY,13.0,11,1,3
+WY,19.0,3,0,1
+WY,23.0,18,1,11
+WY,29.0,15,1,4
+WY,31.0,1,0,1
+WY,33.0,4,0,3
+WY,35.0,20,3,11
+WY,37.0,1,0,0
+WY,39.0,20,1,9
+WY,41.0,1,0,1
+WY,43.0,2,0,0
+WY,45.0,2,0,2
+WY,001,10,1,8
+WY,003,4,0,1
+WY,005,13,4,12
+WY,007,8,0,5
+WY,009,7,1,5
+WY,011,7,0,4
+WY,013,10,2,6
+WY,023,15,1,9
+WY,027,1,0,1
+WY,029,5,1,1
+WY,031,5,0,5
+WY,033,7,0,4
+WY,035,20,1,9
+WY,037,1,0,0
+WY,039,15,1,4
+WY,041,1,0,0
+WY,045,5,1,3
+WY,33,1,0,1
+WY,Albany,23,0,12
+WY,Big Horn,30,2,19
+WY,Campbell,112,11,74
+WY,Carbon,44,2,40
+WY,Converse,10,5,10
+WY,Crook,27,2,18
+WY,Fremont,53,1,33
+WY,Goshen,3,0,2
+WY,Hot Springs,11,2,10
+WY,Johnson,32,3,21
+WY,Laramie,7,1,5
+WY,Lincoln,8,0,6
+WY,Natrona,69,5,65
+WY,Niobrara,5,1,5
+WY,Park,27,1,18
+WY,Platte,12,6,9
+WY,Sheridan,15,2,7
+WY,Sublette,11,2,9
+WY,Sweetwater,107,1,89
+WY,Teton,6,0,2
+WY,Uinta,16,1,11
+WY,Unknown,374,19,150
+WY,Washakie,71,4,51
+WY,Weston,21,3,11
