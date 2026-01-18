@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FWI Prediction</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Segoe UI", Arial, sans-serif;
+            background: linear-gradient(135deg, #74ebd5, #acb6e5);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;  
+            padding-top: 40px;         
+            margin: 0;
+        }
+
+
+        .container {
+            display: flex;
+            gap: 25px;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+            max-width: 750px;
+            width: 100%;
+        }
+
+        .form-box, .result-box {
+            width: 320px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            color: #333;
+            text-align: center;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px 12px;
+            margin: 7px 0;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #6c63ff;
+            box-shadow: 0 0 5px rgba(108, 99, 255, 0.3);
+        }
+
+        button {
+            width: 100%;
+            margin-top: 15px;
+            padding: 12px;
+            border: none;
+            border-radius: 6px;
+            background: linear-gradient(135deg, #6c63ff, #48c6ef);
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+        }
+
+        .result-box {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: #f5f9ff;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .result-value {
+            margin-top: 15px;
+            padding: 12px 20px;
+            background: #e3f0ff;
+            border-radius: 8px;
+            color: #0066cc;
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        @media (max-width: 800px) {
+            .container {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .form-box, .result-box {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- LEFT: FORM -->
+    <div class="form-box">
+        <h1>FWI Prediction</h1>
+
+        <form action="{{ url_for('predict_datapoint') }}" method="post">
+
+            <input type="text" name="Temperature" placeholder="Temperature" required>
+            <input type="text" name="RH" placeholder="Relative Humidity (RH)" required>
+            <input type="text" name="Ws" placeholder="Wind Speed (Ws)" required>
+            <input type="text" name="Rain" placeholder="Rain" required>
+            <input type="text" name="FFMC" placeholder="FFMC" required>
+            <input type="text" name="DMC" placeholder="DMC" required>
+            <input type="text" name="ISI" placeholder="ISI" required>
+            <input type="text" name="Classes" placeholder="Classes" required>
+            <input type="text" name="Region" placeholder="Region" required>
+
+            <button type="submit">Predict FWI</button>
+        </form>
+    </div>
+
+    <!-- RIGHT: RESULT -->
+    <div class="result-box">
+        <h1>The predicted FWI is:</h1>
+
+        {% if results %}
+            <div class="result-value">
+                {{ results }}
+            </div>
+        {% else %}
+            <p>Enter values and click predict to see the result.</p>
+        {% endif %}
+    </div>
+
+</div>
+
+</body>
+</html>
